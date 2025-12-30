@@ -7,7 +7,9 @@ A public repo that will record and redirect to multiple versions of videos I cre
 
 # VIDEOS
 
-| #   | Title                          | Date       | Thumb                  | YT Link                  |
-|-----|--------------------------------|------------|------------------------|--------------------------|
-| 653 | Reviewing Posters - Howling Mutant | 2025-XX-XX | ![thumb](thumbnails/653.jpg) | [Watch](https://youtube.com/watch?v=...) |
-| 1   | Sneak Peek                     | 2025-XX-XX | ![thumb](thumbnails/1.jpg)   | [Watch](https://youtube.com/watch?v=...) |
+| #   | Title                          | Date       | Thumb                  | YT                          | Mirrors                                                                 |
+|-----|--------------------------------|------------|------------------------|-----------------------------|-------------------------------------------------------------------------|
+| 653 | Reviewing Posters - Howling Mutant | 2025-XX-XX | ![thumb](thumbnails/653.jpg) | [YouTube](https://youtube.com/watch?v=...) | [Rumble](https://rumble.com/...) [BitChute](https://bit...) [Odysee](https://odysee.com/...) |
+| 1   | Sneak Peek                     | 2025-XX-XX | ![thumb](thumbnails/1.jpg)   | [YouTube](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                                           |
+
+Full description, backups, socials → separate file: [Video653-full.md](Video653-full.md)
