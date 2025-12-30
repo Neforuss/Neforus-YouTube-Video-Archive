@@ -20,18 +20,17 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 
 # Video Index
 
-| #   | Title                                              | Original Upload Date | Thumb                          | YouTube                     | Mirrors                                          |
-|-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
-| 653 | Reviewing Posters - Howling Mutant                 | YYYY-MM-DD           | ![thumb](thumbnails/653.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...) [Odysee](...) |
-| 652 | Troll or Tragedy                                   | YYYY-MM-DD           | ![thumb](thumbnails/652.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                    |
-| 651 | Sublime Dining                                     | YYYY-MM-DD           | ![thumb](thumbnails/651.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...)                                    |
-| 650 | Geometry Dash - Lemon Demon - Touch Tone Telephone Level | YYYY-MM-DD     | ![thumb](thumbnails/650.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                    |
-| 649 | How to get all of your attention back              | YYYY-MM-DD           | ![thumb](thumbnails/649.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...)                                    |
-| 648 | The Holy Bible KJV Audiobook (Contiguous)          | YYYY-MM-DD           | ![thumb](thumbnails/648.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                    |
-| 647 | Worst 80s Compilation                              | YYYY-MM-DD           | ![thumb](thumbnails/647.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...)                                    |
-| 646 | the world is a mess                                | YYYY-MM-DD           | ![thumb](thumbnails/646.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                    |
-| 645 | why are game file sizes too large                  | YYYY-MM-DD           | ![thumb](thumbnails/645.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...)                                    |
-| 644 | No free advertisements                             | YYYY-MM-DD           | ![thumb](thumbnails/644.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                    |
-| 643 | How to get everything for free as a Music Producer | YYYY-MM-DD           | ![thumb](thumbnails/643.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...)                                    |
-| 642 | DOWNLOAD SOULSEEK                                  | YYYY-MM-DD           | ![thumb](thumbnails/642.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                    |
+#,Title,Original Upload Date,Thumb,YouTube,Mirrors
+653,Reviewing Posters - Howling Mutant,YYYY-MM-DD,![thumb](thumbnails/653.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...) [Odysee](...)
+652,Troll or Tragedy,YYYY-MM-DD,![thumb](thumbnails/652.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...)
+651,Sublime Dining,YYYY-MM-DD,![thumb](thumbnails/651.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...)
+650,Geometry Dash - Lemon Demon - Touch Tone Telephone Level,YYYY-MM-DD,![thumb](thumbnails/650.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...)
+649,How to get all of your attention back,YYYY-MM-DD,![thumb](thumbnails/649.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...)
+648,The Holy Bible KJV Audiobook (Contiguous),YYYY-MM-DD,![thumb](thumbnails/648.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...)
+647,Worst 80s Compilation,YYYY-MM-DD,![thumb](thumbnails/647.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...)
+646,the world is a mess,YYYY-MM-DD,![thumb](thumbnails/646.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...)
+645,why are game file sizes too large,YYYY-MM-DD,![thumb](thumbnails/645.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...)
+644,No free advertisements,YYYY-MM-DD,![thumb](thumbnails/644.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...)
+643,How to get everything for free as a Music Producer,YYYY-MM-DD,![thumb](thumbnails/643.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...)
+642,DOWNLOAD SOULSEEK,YYYY-MM-DD,![thumb](thumbnails/642.jpg),[Watch](https://youtube.com/watch?v=...),[Rumble](...) [BitChute](...)
 
