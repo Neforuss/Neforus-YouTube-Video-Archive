@@ -11,7 +11,7 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 ## FAKE AND GAY STRIKES
 -	Onision False Copyright Strike
 -	“Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time.
--	  At the time other people have gotten similar strikes to mines. 
+      At the time other people have gotten similar strikes to mines. 
 -	“Child Safety” CG Strike | Was Later Resolved.
 -	"Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
 
