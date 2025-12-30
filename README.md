@@ -2,14 +2,3 @@
 A public repo that will record and redirect to multiple versions of videos I create and upload on YouTube primarily to different platforms, to minimize danger in case of any accounts getting wrongly banned.
 
 # RATIONALE
-
-
-
-# VIDEOS
-
-| #   | Title                          | Date       | Thumb                  | YT                          | Mirrors                                                                 |
-|-----|--------------------------------|------------|------------------------|-----------------------------|-------------------------------------------------------------------------|
-| 653 | Reviewing Posters - Howling Mutant | 2025-XX-XX | ![thumb](thumbnails/653.jpg) | [YouTube](https://youtube.com/watch?v=...) | [Rumble](https://rumble.com/...) [BitChute](https://bit...) [Odysee](https://odysee.com/...) |
-| 1   | Sneak Peek                     | 2025-XX-XX | ![thumb](thumbnails/1.jpg)   | [YouTube](https://youtube.com/watch?v=...) | [Rumble](...) [BitChute](...)                                           |
-
-Full description, backups, socials → separate file: [Video653-full.md](Video653-full.md)
