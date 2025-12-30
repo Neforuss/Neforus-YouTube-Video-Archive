@@ -9,11 +9,13 @@ Though I do want people to know that I AM THE PROBLEM in this case. I am fully a
 At one point I was on a TWO STRIKES standing with the Community Guidelines, on the verge of being nuked off of YouTube for what started out as an unfortunate line of videos that got taken down for reasons that are going to be shown in the screenshots. 
 
 ## FAKE AND GAY STRIKES
--	Onision False Copyright Strike
--	“Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time.
-      At the time other people have gotten similar strikes to mines. 
--	“Child Safety” CG Strike | Was Later Resolved.
--	"Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
+
+
+* Onision False Copyright Strike
+* “Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time.
+- At the time other people have gotten similar strikes to mines. 
+* “Child Safety” CG Strike | Was Later Resolved.
+* "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
 
 # Video Index
 
