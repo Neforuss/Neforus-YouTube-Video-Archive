@@ -10,16 +10,13 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 
 ## FAKE AND GAY STRIKES
 
-
-
 * Onision False Copyright Strike on a video that was of his mental breakdown vocoded to the song Oingo Boingo - Little Girls<img width="622" height="749" alt="ONISION-BS-COPYRIGHT-STRIKE" src="https://github.com/user-attachments/assets/aee39c4a-6c35-4062-ac19-f7c91adefe9c" />
 
 * “Cyberbullying/Harassment” Community Guideline Strike on a Livestream Covering the EDP445 Situation at the time. At the time other people have gotten similar strikes to mines. 
-* “Child Safety” CG Strike | Was Later Resolved.
+* “Child Safety” CG Strike, most likely was the part in the video where visibly of age people were playing with fire | Was Later Resolved.
+<img width="830" height="786" alt="mboxview64_c2ZLZCslwT" src="https://github.com/user-attachments/assets/abdbd737-b17e-49ff-9e85-a7ee799f3cd1" />
 * "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
-* "Violent criminal organizations policy" because the video was titled 'What is the GD Dream?' mistaking GD for Gangster Disciple when it was a Geometry Dash video.
-<img width="760" height="760" alt="GD-Dream-BS-Strike" src="https://github.com/user-attachments/assets/18a6f3da-8c39-4564-83f7-ec4660efd60f" />
-
+* "Violent criminal organizations policy" because the video was titled 'What is the GD Dream?' mistaking GD for Gangster Disciple when it was a Geometry Dash video.<img width="760" height="760" alt="GD-Dream-BS-Strike" src="https://github.com/user-attachments/assets/18a6f3da-8c39-4564-83f7-ec4660efd60f" />
 * "Policy on harmful conspiracy theories" for a video titled "LAW AND ORDER LITERALLY HAD A PIZZAGATE EPISODE TO PSYOP YOU ALL LMAOOOOO" when it was just a Geometry Dash level completion, nothing to do with Pizzagate.
 
 
