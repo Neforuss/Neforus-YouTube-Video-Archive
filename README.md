@@ -20,9 +20,9 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 
 # Video Index
 
-| #   | Title                                              | Original Upload Date | Thumb                          | YouTube                     | Mirrors                                          |
+| #   | Title                                              | Original Upload Date | Thumbnails                     | YouTube                     | Mirrors                                          |
 |-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
-| 654 | FUTURE FUNK COMPLETE 100% GEOMETRY DASH            | 2026-01-02           | ![thumb](thumbnails/654.png)   | [Watch](https://www.youtube.com/watch?v=aCE-jQJ9GVc) | [Rumble](https://rumble.com/v73sqoi-future-funk-complete-100-geometry-dash.html) [Odysee](https://odysee.com/@Neforus:d/future-funk-complete-100-geometry-dash:2) [BitChute](https://www.bitchute.com/video/DcRDEjMNI8Oo/) [X](https://x.com/Neforus/status/2007275735682261093) |
+| 654 | FUTURE FUNK COMPLETE 100% GEOMETRY DASH            | 2026-01-02           | ![THUMB](thumbnails/654.png)   | [Watch](https://www.youtube.com/watch?v=aCE-jQJ9GVc) | [Rumble](https://rumble.com/v73sqoi-future-funk-complete-100-geometry-dash.html) [Odysee](https://odysee.com/@Neforus:d/future-funk-complete-100-geometry-dash:2) [BitChute](https://www.bitchute.com/video/DcRDEjMNI8Oo/) [X](https://x.com/Neforus/status/2007275735682261093) |
 | 653 | Reviewing Posters - Howling Mutant                 | YYYY-MM-DD           | ![thumb](thumbnails/653.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [X](...) |
 | 652 | Troll or Tragedy                                   | YYYY-MM-DD           | ![thumb](thumbnails/652.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [X](...) |
 | 651 | Sublime Dining                                     | YYYY-MM-DD           | ![thumb](thumbnails/651.jpg)   | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [X](...) |
