@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="game size too big" src="https://github.com/user-attachments/assets/c664d322-ffbe-42ac-9163-0f676948be51" /># Video Index
+# Video Index
 | # | Title | Original Upload Date (YYYY-MM-DD) | Thumbnails | YouTube | Mirrors |
 |-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
 | 654 | FUTURE FUNK COMPLETE 100% GEOMETRY DASH | 2026-01-02 | ![THUMB](/thumbnails/654.png) | [Watch](https://www.youtube.com/watch?v=aCE-jQJ9GVc) | [Rumble](https://rumble.com/v73sqoi-future-funk-complete-100-geometry-dash.html) [Odysee](https://odysee.com/@Neforus:d/future-funk-complete-100-geometry-dash:2) [BitChute](https://www.bitchute.com/video/DcRDEjMNI8Oo/) [Twitter/X](https://x.com/Neforus/status/2007275735682261093) |
