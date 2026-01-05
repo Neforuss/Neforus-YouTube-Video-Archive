@@ -19,6 +19,7 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
   <img width="830" height="786" alt="mboxview64_c2ZLZCslwT" src="https://github.com/user-attachments/assets/abdbd737-b17e-49ff-9e85-a7ee799f3cd1" />
 * "Medical Misinformation" off of me playing an RFK Joe Rogan Clip deep in a livestream when the gay COVID-19 misinformation policy was a very prevelant force.
 
+<img width="719" height="761" alt="mboxview64_p4IV4b9JO6" src="https://github.com/user-attachments/assets/b07b2ac5-f7a8-462c-8d63-01e381b2b31d" />
   
 * "Violent criminal organizations policy" because the video was titled 'What is the GD Dream?' mistaking GD for Gangster Disciple when it was a Geometry Dash video.
 
