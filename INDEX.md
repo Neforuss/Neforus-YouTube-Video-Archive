@@ -654,4 +654,4 @@
 | 4 |  | 2017-MM-DD | ![thumb](/thumbnails/4.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 3 |  | 2017-MM-DD | ![thumb](/thumbnails/3.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 2 |  | 2017-MM-DD | ![thumb](/thumbnails/2.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 1 | Sneak Peek | 2017-08-03 | ![thumb](thumbnails/1.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [X](...) |
+| 1 | Sneak Peek | 2017-08-03 | ![thumb](thumbnails/1.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](https://rumble.com/v73lpiu-sneak-peek.html) [Odysee](https://odysee.com/@Neforus:d/-1--Sneek-peek:1) [BitChute](https://www.bitchute.com/video/hACLlcgKTAME) |
