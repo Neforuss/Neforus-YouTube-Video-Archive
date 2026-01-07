@@ -12,8 +12,8 @@
 | 646 | The World is a Mess | 2025-04-21 | ![thumb](thumbnails/646.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 645 | Why are File Sizes SO BIG? | 2025-03-03 | ![thumb](thumbnails/645.png) | [Watch](https://www.youtube.com/watch?v=Ric13I7vt1c) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 644 | No free advertisements | 2025-02-27 | ![thumb](thumbnails/644.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 643 | How to get everything for free as a Music Producer | 2025-01-12 | ![thumb](thumbnails/643.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 642 | DOWNLOAD SOULSEEK | 2025-01-01 | ![thumb](thumbnails/642.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 643 | How to get everything for free as a Music Producer | 2025-01-12 | ![thumb](thumbnails/643.png) | [Watch](https://youtu.be/z6KwEvUjRVc) | [Rumble](https://rumble.com/v7408pm-how-to-get-everything-for-free-as-a-music-producer.html) [Odysee](https://odysee.com/@Neforus:d/how-to-get-everything-for-free-as-a:8) [BitChute](https://www.bitchute.com/video/F7BCq01CRow9/) [Twitter/X](https://x.com/Neforus/status/2008977195499442180) |
+| 642 | DOWNLOAD SOULSEEK | 2025-01-01 | ![thumb](thumbnails/642.png) | [Watch](...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 641 |  | 2024-MM-DD | ![thumb](/thumbnails/641.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 640 |  | 2024-MM-DD | ![thumb](/thumbnails/640.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 639 |  | 2024-MM-DD | ![thumb](/thumbnails/639.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
