@@ -258,7 +258,7 @@
 | 400 |  | 2021-MM-DD | ![thumb](/thumbnails/400.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 399 |  | 2021-MM-DD | ![thumb](/thumbnails/399.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 398 |  | 2021-MM-DD | ![thumb](/thumbnails/398.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 397 |  | 2021-MM-DD | ![thumb](/thumbnails/397.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 397 | John Swan Versus Dream | 2021-02-28 | ![thumb](/thumbnails/397.png) | [Watch](https://www.youtube.com/watch?v=EK4YLJpheSc) | [Rumble](https://rumble.com/v73zdsq-john-swan-versus-dream.html) [Odysee](https://odysee.com/@Neforus:d/john-swan-versus-dream:b) [BitChute](https://www.bitchute.com/video/Z4TIGetPyhqJ/) |
 | 396 |  | 2021-MM-DD | ![thumb](/thumbnails/396.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 395 |  | 2021-MM-DD | ![thumb](/thumbnails/395.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 394 |  | 2021-MM-DD | ![thumb](/thumbnails/394.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
