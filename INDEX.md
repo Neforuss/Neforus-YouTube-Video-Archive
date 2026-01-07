@@ -8,7 +8,7 @@
 | 650 | Geometry Dash - Lemon Demon - Touch Tone Telephone Level | 2025-10-29 | ![thumb](thumbnails/650.png) | [Watch](https://www.youtube.com/watch?v=Q5A4dkPJtg4) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 649 | How to get all of your attention back | 2025-09-27 | ![thumb](thumbnails/649.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 648 | The Holy Bible KJV Audiobook (Contiguous) | 2025-08-14 | ![thumb](thumbnails/648.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 647 | Worst 808's Compilation | 2025-05-10 | ![thumb](thumbnails/647.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 647 | Worst 808's Ever | 2025-05-10 | ![thumb](thumbnails/647.png) | [Watch](https://www.youtube.com/watch?v=B3ahsYW4zF0) | [Rumble](https://rumble.com/v7404ik-worst-808s-ever.html) [Odysee](https://odysee.com/@Neforus:d/worst-808s-ever:7) [BitChute](https://www.bitchute.com/video/9MWrct4r3DUe/) [Twitter/X](https://x.com/Neforus/status/2008968292170649624) |
 | 646 | The World is a Mess | 2025-04-21 | ![thumb](thumbnails/646.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 645 | Why are File Sizes SO BIG? | 2025-03-03 | ![thumb](thumbnails/645.png) | [Watch](https://www.youtube.com/watch?v=Ric13I7vt1c) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 644 | No free advertisements | 2025-02-27 | ![thumb](thumbnails/644.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
