@@ -644,11 +644,11 @@
 | 14 |  | 2017-MM-DD | ![thumb](/thumbnails/14.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 13 |  | 2017-MM-DD | ![thumb](/thumbnails/13.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 12 |  | 2017-MM-DD | ![thumb](/thumbnails/12.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 11 |  | 2017-MM-DD | ![thumb](/thumbnails/11.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 10 |  | 2017-MM-DD | ![thumb](/thumbnails/10.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 9 |  | 2017-MM-DD | ![thumb](/thumbnails/9.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 8 |  | 2017-MM-DD | ![thumb](/thumbnails/8.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 7 |  | 2017-MM-DD | ![thumb](/thumbnails/7.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 11 | Miitopia Demo | 2017-08-15 | ![thumb](/thumbnails/11.png) | [Watch](https://youtube.com/watch?v=ZUKYSzYS0LA) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 10 | Not clickbait legit | 2017-08-13 | ![thumb](/thumbnails/10.png) | [Watch](https://youtube.com/watch?v=3djKJ_T4DC0) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 9 |  TO BE CONTINUED MEME SONG PLAYED BACKWARDS  | 2017-08-11 | ![thumb](/thumbnails/9.png) | [Watch](https://youtube.com/watch?v=uhUQ13GO4xg) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 8 |  Figdet spinner collection showcase with rare fidget spinners  | 2017-08-09 | ![thumb](/thumbnails/8.png) | [Watch](https://youtube.com/watch?v=hqMUD7-c-ho) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 7 | Play backward series | 2017-08-09 | ![thumb](/thumbnails/7.png) | [Watch](https://youtube.com/watch?v=-EIS9Fip55Y) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 6 | SONG OF STORMS (LEGEND OF ZELDA) played backwards | 2017-08-09 | ![thumb](/thumbnails/6.png) | [Watch](https://youtube.com/watch?v=8p5baQsSRaY) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 5 | Special Update | 2017-08-08 | ![thumb](/thumbnails/5.png) | [Watch](https://youtube.com/watch?v=Qgy86cws15M) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 4 | Shopping | 2017-08-07 | ![thumb](/thumbnails/4.png) | [Watch](https://youtube.com/watch?v=MjdexPotih4) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
