@@ -58,7 +58,7 @@
 | 600 | REDACTED | 2023-05-25 | ![thumb](/thumbnails/REDACTED_THUMB.png) | |  |
 | 599 |  | 2023-MM-DD | ![thumb](/thumbnails/599.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 598 |  | 2023-MM-DD | ![thumb](/thumbnails/598.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 597 |  | 2023-MM-DD | ![thumb](/thumbnails/597.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 597 | IDUBBBZ IS BUCKBROKEN | 2023-05-06 | ![thumb](/thumbnails/597.png) | [Watch](https://www.youtube.com/watch?v=NvTVKXsRaxU) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 596 |  | 2023-MM-DD | ![thumb](/thumbnails/596.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 595 |  | 2023-MM-DD | ![thumb](/thumbnails/595.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 594 |  | 2023-MM-DD | ![thumb](/thumbnails/594.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
