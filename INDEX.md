@@ -17,7 +17,7 @@
 | 641 | The MOST BORING DISCORD CALL ON THE INTERNET | 2024-07-27 | ![thumb](/thumbnails/641.png) | [Watch](https://youtu.be/XufGp_XhFrs) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 640 |  | 2024-MM-DD | ![thumb](/thumbnails/640.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 639 |  | 2024-MM-DD | ![thumb](/thumbnails/639.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 638 | HOW TO REALLY USE YOUTUBE | 2024-04-05 | ![thumb](/thumbnails/638.png) | [Watch](https://youtu.be/uixr2RuPhbQ) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 638 | HOW TO REALLY USE YOUTUBE | 2024-04-05 | ![thumb](/thumbnails/638.png) | [Watch](https://youtu.be/uixr2RuPhbQ) | [Rumble](...) [Odysee](https://odysee.com/@Neforus:d/how-to-really-use-youtube:3) [BitChute](...) [Twitter/X](https://x.com/Neforus/status/2009137084817396163) |
 | 637 |  | 2024-MM-DD | ![thumb](/thumbnails/637.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 636 |  | 2024-MM-DD | ![thumb](/thumbnails/636.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 635 |  | 2024-MM-DD | ![thumb](/thumbnails/635.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
