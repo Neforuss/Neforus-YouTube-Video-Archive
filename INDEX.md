@@ -44,7 +44,7 @@
 | 614 |  | 2023-MM-DD | ![thumb](/thumbnails/614.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 613 |  | 2023-MM-DD | ![thumb](/thumbnails/613.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 612 |  | 2023-MM-DD | ![thumb](/thumbnails/612.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 611 | This GIRL IS AN ABSOLUTE GOBLIN (Watamote Anime Review) | 2023-08-26 | ![thumb](/thumbnails/611.png) | [BANNED] | [Rumble](https://rumble.com/v3c42m7-this-girl-is-an-absolute-goblin-watamote-anime-review.html?e9s=src_v1_upp_v) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 611 | This GIRL IS AN ABSOLUTE GOBLIN (Watamote Anime Review) | 2023-08-26 | ![thumb](/thumbnails/611.png) | [BANNED] | [Rumble](https://rumble.com/v3c42m7-this-girl-is-an-absolute-goblin-watamote-anime-review.html?e9s=src_v1_upp_v) [Odysee](...) [BitChute](...) [Twitter/X](https://x.com/Neforus/status/2009067767421653332) |
 | 610 |  | 2023-MM-DD | ![thumb](/thumbnails/610.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 609 |  | 2023-MM-DD | ![thumb](/thumbnails/609.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 608 |  | 2023-MM-DD | ![thumb](/thumbnails/608.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
