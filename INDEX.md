@@ -76,7 +76,7 @@
 | 582 |  | 2023-MM-DD | ![thumb](/thumbnails/582.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 581 |  | 2023-MM-DD | ![thumb](/thumbnails/581.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 580 |  | 2023-MM-DD | ![thumb](/thumbnails/580.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 579 |  | 2023-MM-DD | ![thumb](/thumbnails/579.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 579 | THE MOST SCHIZOPHRENIC MINECRAFT VIDEO YOU WILL EVER SEE | 2023-MM-DD | ![thumb](/thumbnails/579.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](https://rumble.com/v23i018-the-the-most-schizophrenic-minecraft-video-you-will-ever-watch.html?e9s=src_v1_cbl%2Csrc_v1_upp_v) [Odysee](https://odysee.com/@Neforus:d/the-most-schizophrenic-minecraft-video:2) [BitChute](...) [Twitter/X](https://x.com/Neforus/status/2009076964435657048) |
 | 578 |  | 2022-MM-DD | ![thumb](/thumbnails/578.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 577 |  | 2022-MM-DD | ![thumb](/thumbnails/577.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 576 |  | 2022-MM-DD | ![thumb](/thumbnails/576.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
