@@ -90,7 +90,7 @@
 | 570 |  | 2022-MM-DD | ![thumb](/thumbnails/570.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 569 |  | 2022-MM-DD | ![thumb](/thumbnails/569.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 568 |  | 2022-MM-DD | ![thumb](/thumbnails/568.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 567 | 2019 Reddit Videos Were A Preparatory Psyop | 2022-10-22 | ![thumb](/thumbnails/567.png) | [Watch](https://youtu.be/JKpznY8HSxk) | [Rumble](https://rumble.com/v766gx0-2019-reddit-videos-were-a-preparatory-psyop.html) [Odysee](https://odysee.com/@Neforus:d/2019-reddit-videos-were-a-preparatory:0) [BitChute](...) [Twitter/X](...) |
+| 567 | 2019 Reddit Videos Were A Preparatory Psyop | 2022-10-22 | ![thumb](/thumbnails/567.png) | [Watch](https://youtu.be/JKpznY8HSxk) | [Rumble](https://rumble.com/v766gx0-2019-reddit-videos-were-a-preparatory-psyop.html) [Odysee](https://odysee.com/@Neforus:d/2019-reddit-videos-were-a-preparatory:0) [BitChute](https://www.bitchute.com/video/j2uA3CzgAZ7f/) [Twitter/X](https://x.com/TheNeforus/status/2026076043107615224?s=20) |
 | 566 |  | 2022-MM-DD | ![thumb](/thumbnails/566.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 565 |  | 2022-MM-DD | ![thumb](/thumbnails/565.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 564 |  | 2022-MM-DD | ![thumb](/thumbnails/564.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
