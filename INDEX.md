@@ -120,7 +120,7 @@
 | 540 |  | 2022-MM-DD | ![thumb](/thumbnails/540.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 539 |  | 2022-MM-DD | ![thumb](/thumbnails/539.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 538 |  | 2022-MM-DD | ![thumb](/thumbnails/538.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 537 |  | 2022-MM-DD | ![thumb](/thumbnails/537.jpg) | [Watch](https://youtu.be/HKiDDUeqp4Y) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 537 | Scripted Videos | 2022-07-08 | ![thumb](/thumbnails/537.jpg) | [Watch](https://youtu.be/HKiDDUeqp4Y) | [Rumble](...) [Odysee](https://odysee.com/@Neforus:d/scripted-videos:8?r=BahowUDfhTNCETr7rJzNgGgRyLRh2eFz) [BitChute](...) [Twitter/X](...) |
 | 536 |  | 2022-MM-DD | ![thumb](/thumbnails/536.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 535 |  | 2022-MM-DD | ![thumb](/thumbnails/535.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 534 | Soulseek is an Undiscovered Goldmine | 2022-06-23 | ![thumb](/thumbnails/534.png) | [Watch](https://www.youtube.com/watch?v=mnNAiYLSp0Y) | [Rumble](https://rumble.com/v74015u-soulseek-is-an-undiscovered-goldmine.html) [Odysee](https://odysee.com/Soulseek-is-an-Undiscovered-Goldmine:0b8de43b037b49c7d9435f3adc5ecbbd417a7d1e) [BitChute](https://www.bitchute.com/video/JDJXmkm7gckn/) [Twitter/X](https://x.com/Neforus/status/2008941260233736563) |
