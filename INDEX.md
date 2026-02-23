@@ -282,7 +282,7 @@
 | 378 |  | 2020-MM-DD | ![thumb](/thumbnails/378.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 377 |  | 2020-MM-DD | ![thumb](/thumbnails/377.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 376 |  | 2020-MM-DD | ![thumb](/thumbnails/376.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 375 |  | 2020-MM-DD | ![thumb](/thumbnails/375.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 375 | WORLD MAP TEST | 2020-12-20 | ![thumb](/thumbnails/375.png) | [Watch](https://youtu.be/6Fa1ttzW1Kc) | [Rumble](https://rumble.com/v766exw-world-map-test.html) [Odysee](https://odysee.com/-WORLD-MAP-TEST:60adfd011e2b648031afda12e1ec66d9a7ee6d0b) [BitChute](https://www.bitchute.com/video/UVZOHw6LVcje/) [Twitter/X](https://x.com/TheNeforus/status/2026042218017182129) |
 | 374 |  | 2020-MM-DD | ![thumb](/thumbnails/374.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 373 |  | 2020-MM-DD | ![thumb](/thumbnails/373.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 372 |  | 2020-MM-DD | ![thumb](/thumbnails/372.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
