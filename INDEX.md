@@ -55,7 +55,7 @@
 | 605 |  | 2023-MM-DD | ![thumb](/thumbnails/605.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 604 |  | 2023-MM-DD | ![thumb](/thumbnails/604.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 603 |  | 2023-MM-DD | ![thumb](/thumbnails/603.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 602 | DO NOT TRUST PEOPLE WHEN THEY DO THIS | 2023-06-10 | ![thumb](/thumbnails/602.png) | [Watch](https://youtu.be/5hZPXorEWtQ) | [Rumble](https://rumble.com/v766nw8-do-not-trust-people-when-they-do-this.html) [Odysee](https://odysee.com/@Neforus:d/do-not-trust-people-when-they-do-this:3) [BitChute](...) [Twitter/X](https://x.com/TheNeforus/status/2026089113829667128) |
+| 602 | DO NOT TRUST PEOPLE WHEN THEY DO THIS | 2023-06-10 | ![thumb](/thumbnails/602.png) | [Watch](https://youtu.be/5hZPXorEWtQ) | [Rumble](https://rumble.com/v766nw8-do-not-trust-people-when-they-do-this.html) [Odysee](https://odysee.com/@Neforus:d/do-not-trust-people-when-they-do-this:3) [BitChute](https://www.bitchute.com/video/dJmuGdwyjH4e/) [Twitter/X](https://x.com/TheNeforus/status/2026089113829667128) |
 | 601 |  | 2023-MM-DD | ![thumb](/thumbnails/601.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 600 | REDACTED | 2023-05-25 | ![thumb](/thumbnails/REDACTED_THUMB.png) | |  |
 | 599 |  | 2023-MM-DD | ![thumb](/thumbnails/599.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
