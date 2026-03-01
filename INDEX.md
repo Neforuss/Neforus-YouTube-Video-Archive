@@ -74,7 +74,7 @@
 | 586 |  | 2023-MM-DD | ![thumb](/thumbnails/586.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 585 |  | 2023-MM-DD | ![thumb](/thumbnails/585.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 584 |  | 2023-MM-DD | ![thumb](/thumbnails/584.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 583 |  | 2023-MM-DD | ![thumb](/thumbnails/583.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 583 | A Rant and Tutorial on the OBS Settings Being Grayed Out | 2023-01-05 | ![thumb](/thumbnails/583.png) | [Watch](https://youtu.be/kHM5P4FkQAY) | [Rumble](https://rumble.com/v76gzm8-a-rant-and-tutorial-on-the-obs-settings-being-grayed-out.html) [Odysee](https://odysee.com/@Neforus:d/a-rant-and-tutorial-on-the-obs-settings:2) [BitChute](https://www.bitchute.com/video/pOgojcQ9nCAW/) [Twitter/X](https://x.com/TheNeforus/status/2028199817399419380) |
 | 582 |  | 2023-MM-DD | ![thumb](/thumbnails/582.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 581 |  | 2023-MM-DD | ![thumb](/thumbnails/581.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 580 |  | 2023-MM-DD | ![thumb](/thumbnails/580.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
