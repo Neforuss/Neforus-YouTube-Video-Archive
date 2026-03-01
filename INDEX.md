@@ -199,7 +199,7 @@
 | 461 |  | 2021-MM-DD | ![thumb](/thumbnails/461.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 460 |  | 2021-MM-DD | ![thumb](/thumbnails/460.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 459 |  | 2021-MM-DD | ![thumb](/thumbnails/459.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 458 |  | 2021-MM-DD | ![thumb](/thumbnails/458.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 458 | Kanye West - Black Skinhead (GD Layout) preview [1] | 2021-09-09 | ![thumb](/thumbnails/458.png) | [Watch](https://youtu.be/UtFASUX9ONM) | [Rumble](https://rumble.com/v76gxtg-kanye-west-black-skinhead-gd-layout-preview-1.html) [Odysee](https://odysee.com/@Neforus:d/kanye-west-black-skinhead-(gd-layout):1) [BitChute](https://www.bitchute.com/video/WFDv0UwJJdB7/) [Twitter/X](https://x.com/TheNeforus/status/2028191348407627780) |
 | 457 | Lemon Demon - Fine (Geometry Dash Layout) | 2021-09-06 | ![thumb](/thumbnails/457.jpg) | [Watch](https://youtu.be/jtWh50yHiuo) | [Rumble](https://rumble.com/v766cyw-lemon-demon-fine-geometry-dash-layout.html) [Odysee](https://odysee.com/@Neforus:d/fine-(layout):3) [BitChute](https://www.bitchute.com/video/bNEUJMfvofCz/) [Twitter/X](https://x.com/TheNeforus/status/2026032430461960579) |
 | 456 |  | 2021-MM-DD | ![thumb](/thumbnails/456.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 455 |  | 2021-MM-DD | ![thumb](/thumbnails/455.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
@@ -437,7 +437,7 @@
 | 223 |  | 2020-MM-DD | ![thumb](/thumbnails/223.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 222 |  | 2020-MM-DD | ![thumb](/thumbnails/222.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 221 |  | 2020-MM-DD | ![thumb](/thumbnails/221.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 220 |  | 2020-MM-DD | ![thumb](/thumbnails/220.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 220 | Spechie's rant BUT it's vocoded to the USSR Anthem | 2020-02-19 | ![thumb](/thumbnails/220.png) | [Watch](https://youtu.be/oHOw4NzKujQ) | [Rumble](https://rumble.com/v76gsw4-spechies-rant-but-its-vocoded-to-the-ussr-anthem.html) [Odysee](https://odysee.com/@Neforus:d/Spechie's-rant-BUT-it's-vocoded-to-the-USSR-Anthem:0) [BitChute](https://www.bitchute.com/video/zGVGG4Bfhxkd/) [Twitter/X](https://x.com/TheNeforus/status/2028168655318737108) |
 | 219 |  | 2020-MM-DD | ![thumb](/thumbnails/219.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 218 |  | 2020-MM-DD | ![thumb](/thumbnails/218.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 217 |  | 2020-MM-DD | ![thumb](/thumbnails/217.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
