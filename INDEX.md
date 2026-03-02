@@ -530,7 +530,7 @@
 | 130 |  | 2019-MM-DD | ![thumb](/thumbnails/130.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 129 |  | 2019-MM-DD | ![thumb](/thumbnails/129.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 128 |  | 2019-MM-DD | ![thumb](/thumbnails/128.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 127 |  | 2019-MM-DD | ![thumb](/thumbnails/127.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 127 | The Etika and Slazo Situation | 2019-06-20 | ![thumb](/thumbnails/127.png) | [Watch](https://youtu.be/dtQkTF4zjOA) | [Rumble](https://rumble.com/v76hsqk-the-etika-and-slazo-situation.html) [Odysee](https://odysee.com/@Neforus:d/-The-Etika-and-Slazo-Situation:d) [BitChute](https://www.bitchute.com/video/UimuaE6CLiZc/) [Twitter/X](https://x.com/TheNeforus/status/2028341258234831118) |
 | 126 |  | 2019-MM-DD | ![thumb](/thumbnails/126.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 125 |  | 2019-MM-DD | ![thumb](/thumbnails/125.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 124 |  | 2019-MM-DD | ![thumb](/thumbnails/124.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
