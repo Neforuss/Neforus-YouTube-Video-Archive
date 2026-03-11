@@ -554,7 +554,7 @@
 | 106 |  | 2019-MM-DD | ![thumb](/thumbnails/106.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 105 |  | 2019-MM-DD | ![thumb](/thumbnails/105.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 104 |  | 2019-MM-DD | ![thumb](/thumbnails/104.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 103 |  | 2019-MM-DD | ![thumb](/thumbnails/103.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 103 | LG Kreo is a scammer, Apex Legends is good | 2019-02-07 | ![thumb](/thumbnails/103.png) | [Watch](https://youtu.be/l7Lhgw2La8k) | [Rumble](https://rumble.com/v76y6xu-lg-kreo-is-a-scammer-apex-legends-is-good.html) [Odysee](https://odysee.com/@Neforus:d/-103_2--LG-Kreo-is-a-scammer-Apex-Legends-is-good:5) [BitChute](https://www.bitchute.com/video/u35Bwo0LTMdS/) [Twitter/X](https://x.com/TheNeforus/status/2031623950724378786) |
 | 102 |  | 2019-MM-DD | ![thumb](/thumbnails/102.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 101 |  | 2019-MM-DD | ![thumb](/thumbnails/101.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 100 |  | 2019-MM-DD | ![thumb](/thumbnails/100.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
