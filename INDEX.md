@@ -378,7 +378,7 @@
 | 282 |  | 2020-MM-DD | ![thumb](/thumbnails/282.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 281 |  | 2020-MM-DD | ![thumb](/thumbnails/281.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 280 |  | 2020-MM-DD | ![thumb](/thumbnails/280.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 279 |  | 2020-MM-DD | ![thumb](/thumbnails/279.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 279 | Vibe Checking Every US State | 2020-04-21 | ![thumb](/thumbnails/279.png) | [Watch](https://youtu.be/OHz75-F3178) | [Rumble](https://rumble.com/v76y816-vibe-checking-every-us-state.html) [Odysee](https://odysee.com/@Neforus:d/-Vibe-Checking-Every-US-State:d) [BitChute](https://www.bitchute.com/video/N94lDCtEkfp8/) [Twitter/X](https://x.com/TheNeforus/status/2031636083403010318) |
 | 278 |  | 2020-MM-DD | ![thumb](/thumbnails/278.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 277 |  | 2020-MM-DD | ![thumb](/thumbnails/277.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 276 |  | 2020-MM-DD | ![thumb](/thumbnails/276.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
