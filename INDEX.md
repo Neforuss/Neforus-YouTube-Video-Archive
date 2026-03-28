@@ -140,7 +140,7 @@
 | 522 |  | 2022-MM-DD | ![thumb](/thumbnails/522.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 521 |  | 2022-MM-DD | ![thumb](/thumbnails/521.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 520 |  | 2022-MM-DD | ![thumb](/thumbnails/520.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 519 |  | 2022-MM-DD | ![thumb](/thumbnails/519.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 519 | The History on Paper | 2022-06-03 | ![thumb](/thumbnails/519.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 518 |  | 2022-MM-DD | ![thumb](/thumbnails/518.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 517 |  | 2022-MM-DD | ![thumb](/thumbnails/517.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 516 |  | 2022-MM-DD | ![thumb](/thumbnails/516.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
