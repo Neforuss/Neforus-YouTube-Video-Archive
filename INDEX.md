@@ -89,7 +89,7 @@
 | 575 |  | 2022-MM-DD | ![thumb](/thumbnails/575.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 574 |  | 2022-MM-DD | ![thumb](/thumbnails/574.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 573 |  | 2022-MM-DD | ![thumb](/thumbnails/573.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 572 |  | 2022-MM-DD | ![thumb](/thumbnails/572.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 572 | Juxapose (Full Mixtape) | 2022-11-21 | ![thumb](/thumbnails/572.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 571 |  | 2022-MM-DD | ![thumb](/thumbnails/571.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 570 |  | 2022-MM-DD | ![thumb](/thumbnails/570.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 569 |  | 2022-MM-DD | ![thumb](/thumbnails/569.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
