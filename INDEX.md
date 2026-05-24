@@ -89,7 +89,7 @@
 | 575 |  | 2022-MM-DD | ![thumb](/thumbnails/575.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 574 |  | 2022-MM-DD | ![thumb](/thumbnails/574.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 573 |  | 2022-MM-DD | ![thumb](/thumbnails/573.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 572 | Juxapose (Full Mixtape) | 2022-11-21 | ![thumb](/thumbnails/572.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 572 | Juxapose (Full Mixtape) | 2022-11-21 | ![thumb](/thumbnails/572.png) | [Watch](https://youtu.be/6XFW-Gy9usg) | [Rumble](https://rumble.com/v2qcshl-juxapose-full-mixtape.html) [Odysee](https://odysee.com/@Neforus:d/juxapose-%28full-mixtape%29:d) [BitChute](https://www.bitchute.com/video/GyPqgtMDlzof/) [Twitter/X](https://x.com/TheNeforus/status/2058439198278029313?s=20) |
 | 571 |  | 2022-MM-DD | ![thumb](/thumbnails/571.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 570 |  | 2022-MM-DD | ![thumb](/thumbnails/570.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 569 |  | 2022-MM-DD | ![thumb](/thumbnails/569.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
