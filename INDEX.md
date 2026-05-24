@@ -245,7 +245,7 @@
 | 419 |  | 2021-MM-DD | ![thumb](/thumbnails/419.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 418 |  | 2021-MM-DD | ![thumb](/thumbnails/418.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 417 |  | 2021-MM-DD | ![thumb](/thumbnails/417.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
-| 416 |  | 2021-MM-DD | ![thumb](/thumbnails/416.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
+| 416 | Retto (Full Album) | 2021-05-10 | ![thumb](/thumbnails/416.png) | [Watch](https://youtu.be/7eDRB1ic_QQ) | [Rumble](https://rumble.com/v2qcoab-neforus-retto-full-album.html) [Odysee](https://odysee.com/@Neforus:d/retto-%28full-album%29:7) [BitChute](https://www.bitchute.com/video/7NhFofQuEg38/) [Twitter/X](https://x.com/TheNeforus/status/2058421358342865169?s=20) |
 | 415 |  | 2021-MM-DD | ![thumb](/thumbnails/415.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 414 |  | 2021-MM-DD | ![thumb](/thumbnails/414.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 413 |  | 2021-MM-DD | ![thumb](/thumbnails/413.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
