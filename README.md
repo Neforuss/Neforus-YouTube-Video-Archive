@@ -18,7 +18,7 @@ At one point I was on a TWO STRIKES standing with the Community Guidelines, on t
 
   <img width="651" height="684" alt="mboxview64_7ikbVoQ07i" src="https://github.com/user-attachments/assets/f58b95ed-7839-4363-b019-c9d00b8d9d8c" />
 
-* “Child Safety” CG Strike, most likely was the part in the video where visibly of age people were playing with fire | Was Later Resolved. 
+* “Child Safety” CG Strike, most likely was the part in the video where visibly of age people were playing with fire [RESOLVED](https://youtu.be/SLFSc4lBTso). 
 
   <img width="830" height="786" alt="mboxview64_c2ZLZCslwT" src="https://github.com/user-attachments/assets/abdbd737-b17e-49ff-9e85-a7ee799f3cd1" />
 
