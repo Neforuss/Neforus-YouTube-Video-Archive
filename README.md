@@ -1,6 +1,8 @@
-include::INDEX.adoc[https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.adoc]
 
 # NEFORUS YOUTUBE ARCHIVE
+
+(Archive)[https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.adoc]
+
 A public repo that will record and redirect to multiple versions of videos I create and upload on YouTube primarily to different platforms, to minimize danger in case of any accounts getting wrongly banned.
 
 # RATIONALE
