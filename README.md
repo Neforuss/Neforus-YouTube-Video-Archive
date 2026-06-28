@@ -1,7 +1,7 @@
 
-# NEFORUS YOUTUBE ARCHIVE
-
 # [CHECK OUT THE ARCHIVE HERE](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
+
+# NEFORUS YOUTUBE ARCHIVE
 
 A public repo that will record and redirect to multiple versions of videos I create and upload on YouTube primarily to different platforms, to minimize danger in case of any accounts getting wrongly banned.
 
