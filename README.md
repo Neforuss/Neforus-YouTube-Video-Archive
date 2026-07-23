@@ -5,10 +5,12 @@
 
 A public repo that will record and redirect to multiple versions of videos I create and upload on YouTube primarily to different platforms, to minimize danger in case of any accounts getting wrongly banned.
 
-I am forgoing the retroactive uploads for older videos until I can hire someone who can 
-  1. have the patience to do this task
-  2. make better thumbnails for videos at their best discretion
-  3. have the discretion to make better titles and appropriate descriptions for every video that is on my youtube channel library.
+[WRITTEN ON JULY 23 2026]
+
+I am forgoing the retroactive uploads for older videos until I can hire someone who can: 
+  1. Have the patience to do this task
+  2. Make better thumbnails for videos at their best discretion
+  3. Have the discretion to make better titles and appropriate descriptions for every video that is on my youtube channel library.
   4. Do it within 1 week or less
   5. Demonstrate attention to detail in terms of linking the mirrors to each and every upload and a good judgement to skip confusing videos that will mess up the order given some videos on my channel have been permanently deleted or banned.
 
