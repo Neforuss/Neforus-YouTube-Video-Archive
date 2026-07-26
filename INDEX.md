@@ -1,6 +1,7 @@
 # Video Index
 | # | Title | Original Upload Date (YYYY-MM-DD) | Thumbnails | YouTube | Mirrors |
 |-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
+| 663 |  | 2026-07-26 | ![thumb](/thumbnails/663.png) | [Watch](https://youtube.com/watch?v=...) | [Rumble](...) [Odysee](...) [BitChute](...) [Twitter/X](...) |
 | 662 | NVIDIA SHADOWPLAY IS KILLING ME | 2026-07-19 | ![thumb](/thumbnails/662.png) | [Watch](https://youtu.be/Isn6IwRnLVI) | [Rumble](https://rumble.com/v7cy7kc) [Odysee](https://x.com/TheNeforus/status/2078777133623857255?s=20) [BitChute](...) [Twitter/X](https://x.com/TheNeforus/status/2078777133623857255?s=20) |
 | 661 | The June 2026 Video | 2023-06-29 | ![thumb](/thumbnails/661.png) | [Watch](https://youtu.be/pwdTdKPNpjI) | [Rumble](https://rumble.com/v7c119a-the-june-2026-video-uncensored.html) [Odysee](https://odysee.com/@Neforus:d/The-June-2026-Video-UNCENSORED:e) [BitChute](https://www.bitchute.com/video/g9f79tKs1hZF/) [Twitter/X](https://x.com/TheNeforus/status/2071910003288818133?s=20) |
 | 660 | I SURRENDER | 2026-05-15 | ![thumb](/thumbnails/660.png) | [Watch](https://youtu.be/60oITIRXGaA) | [Rumble](https://rumble.com/v79vhgi-i-surrender.html) [Odysee](https://odysee.com/@Neforus:d/-I-SURRENDER:3) [BitChute](https://www.bitchute.com/video/60oITIRXGaA) [Twitter/X](https://x.com/theneforus/status/2055317284298924351?s=46) |
