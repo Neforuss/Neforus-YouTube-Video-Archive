@@ -1,10 +1,8 @@
 # Video Index
 
-Every video keeps its **production number** for good. Numbers follow the order the videos were made and never shift when YouTube removes something. **666** is held for the next upload. **339a** and **605a** went up on YouTube without a number of their own. Videos YouTube took down keep their number and their mirror links. Private videos show only their date.
-
 | # | Title | Original Upload Date (YYYY-MM-DD) | Thumbnails | YouTube | Mirrors |
 |-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
-| 666 | *Next upload (in production)* | TBA |  |  |  |
+| 666 | How to appeal Community Guideline Strikes using HINDI | 2026-09-29 | ![thumb](/thumbnails/666.png) | [Watch](https://youtu.be/4znEWIaJb6Q) | [Rumble]() [Bitchute]() [Odysee]() [Twitter/X]() |
 | 665 | My laptop is retarded and I don’t know what to do | 2026-08-29 | ![thumb](/thumbnails/665.png) | [Watch](https://youtu.be/l0j4n3ewPv0) | [Rumble](https://rumble.com/v7f8bdg-my-laptop-is-retarded-and-i-dont-know-what-to-do.html) [Odysee](https://odysee.com/@Neforus:d/my-laptop-is-retarded-and-i-don%E2%80%99t-know:0) [BitChute](https://www.bitchute.com/video/l0j4n3ewPv0) |
 | 664 | My Geometry Dash Demonlist Spreadsheet | 2026-08-15 | ![thumb](/thumbnails/664.png) | [Watch](https://youtu.be/6VZ3d0Ps5rA) | [Rumble](https://rumble.com/v7e7dnm-my-geometry-dash-demonlist-spreadsheet.html) [Odysee](https://odysee.com/@Neforus:d/my-geometry-dash-demonlist-spreadsheet:3) [BitChute](https://www.bitchute.com/video/6VZ3d0Ps5rA) |
 | 663 | The Rot and Decay of Johannesburg | 2026-07-26 | ![thumb](/thumbnails/663.png) | [Watch](https://youtu.be/ExNgBISjlKc) | [Rumble](https://rumble.com/v7ds76u-the-rot-and-decay-of-johannesburg.html) [Odysee](https://odysee.com/@Neforus:d/the-rot-and-decay-of-johannesburg:2) [BitChute](https://www.bitchute.com/video/ExNgBISjlKc) |
