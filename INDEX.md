@@ -1,7 +1,5 @@
 # Video Index
 
-Every video keeps its **production number** for good. Numbers follow the order the videos were made and never shift when YouTube removes something. **667** is held for the next upload. **339a** and **605a** went up on YouTube without a number of their own. Videos YouTube took down keep their number and their mirror links. Private videos show only their date.
-
 | # | Title | Original Upload Date (YYYY-MM-DD) | Thumbnails | YouTube | Mirrors |
 |-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
 | 667 | *Next upload (in production)* | TBA |  |  |  |
