@@ -145,7 +145,7 @@
 | 528 | Jubilance (song) | 2022-06-15 | ![thumb](/thumbnails/528.png) | [Watch](https://youtu.be/fTFsBGUBVnU) | [Odysee](https://odysee.com/@Neforus:d/jubilance-%28song%29:4) |
 | 527 | The 7 Levels of LOLCOWS | 2022-06-14 | ![thumb](/thumbnails/527.png) | [Watch](https://youtu.be/c9w9H4bQFJ4) | [Rumble](https://rumble.com/v7go3yy-the-7-levels-of-lolcows.html) [Odysee](https://odysee.com/@Neforus:d/lolcows:b) [Bitchute](https://www.bitchute.com/video/NCWfeFQoGu3y/) |
 | 526 | Watching Unlisted YouTube Videos when I'm not allowed to | 2022-06-13 | ![thumb](/thumbnails/526.png) | [Watch](https://youtu.be/gT5GzklLGuY) | [Odysee](https://odysee.com/@Neforus:d/watching-unlisted-youtube-videos:0) |
-| 525 | Cazika II (Instrumental) | 2022-06-12 | ![thumb](/thumbnails/525.png) | [Watch](https://youtu.be/I6jiFncsyzA) | [Odysee](https://odysee.com/@Neforus:d/cazika-ii-%28instrumental%29:3) |
+| 525 | Cazika II (Instrumental) | 2022-06-12 | ![thumb](/thumbnails/525.png) | [Watch](https://youtu.be/I6jiFncsyzA) | [Odysee](https://odysee.com/@Neforus:d/cazika-ii-%28instrumental%29:3) [Bitchute](https://www.bitchute.com/video/pGlOfv6wVpAy/) |
 | 524 | On TheActMan Situation | 2022-06-09 | ![thumb](/thumbnails/524.png) | [Watch](https://youtu.be/UCu2nHbCed8) | [Odysee](https://odysee.com/@Neforus:d/on-theactman-situation:4) |
 | 523 | Annoying = Death Sentence | 2022-06-07 | ![thumb](/thumbnails/523.png) | [Watch](https://youtu.be/2jSp_GAnVVU) | [Odysee](https://odysee.com/@Neforus:d/annoying-death-sentence:5) |
 | 522 | I Quit | 2022-06-06 | ![thumb](/thumbnails/522.png) | [Watch](https://youtu.be/7KIZtvj1e0A) | [Odysee](https://odysee.com/@Neforus:d/i-quit:3a3) |
