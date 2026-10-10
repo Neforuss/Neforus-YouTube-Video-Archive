@@ -124,7 +124,7 @@
 | 549 | Chain Blocking On Twitter | 2022-07-28 | ![thumb](/thumbnails/549.png) | [Watch](https://youtu.be/JNfsBntLeQY) | [Odysee](https://odysee.com/@Neforus:d/chain-blocking-on-twitter:e) |
 | 548 | What Do Billionaires Think Of Millionaires? | 2022-07-27 | ![thumb](/thumbnails/548.png) | [Watch](https://youtu.be/ll64eZBNXu8) | [Odysee](https://odysee.com/@Neforus:d/what-do-billionaires-think-of:0) |
 | 547 | STOP DOING THIS | 2022-07-26 | ![thumb](/thumbnails/547.png) | [Watch](https://youtu.be/ELlSYgFzf_w) | [Odysee](https://odysee.com/@Neforus:d/stop-doing-this:b) |
-| 546 | To The People Who Invented The .Webp and .Jfif Files | 2022-07-25 | ![thumb](/thumbnails/546.png) | [Watch](https://youtu.be/zDtylECUjcw) | [Odysee](https://odysee.com/@Neforus:d/to-the-people-who-invented-the-.webp-and:9) |
+| 546 | To The People Who Invented The .Webp and .Jfif Files | 2022-07-25 | ![thumb](/thumbnails/546.png) | [Watch](https://youtu.be/zDtylECUjcw) | [Odysee](https://odysee.com/@Neforus:d/to-the-people-who-invented-the-.webp-and:9) [BitChute](https://www.bitchute.com/video/mPZfjBsxWbGe/) |
 | 545 | "You Fell Off" | 2022-07-22 | ![thumb](/thumbnails/545.png) | [Watch](https://youtu.be/VzQLQijHzq8) | [Odysee](https://odysee.com/@Neforus:d/you-fell-off:3) |
 | 544 | Drinking VITAMIN WATER for the FIRST TIME in my LIFE | 2022-07-21 | ![thumb](/thumbnails/544.png) | [Watch](https://youtu.be/e4LS33MMjnI) | [Odysee](https://odysee.com/@Neforus:d/drinking-vitamin-water-for-the-first:a) |
 | 543 | "I Have Made A Lapse in My Judgement" | 2022-07-20 | ![thumb](/thumbnails/543.png) | [Watch](https://youtu.be/i6GQc6DNQiY) | [Odysee](https://odysee.com/@Neforus:d/i-have-made-a-lapse-in-my-judgement:9) |
