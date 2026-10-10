@@ -111,7 +111,7 @@
 | 562 | Internet Content in 2032 | 2022-10-15 | ![thumb](/thumbnails/562.png) | [Watch](https://youtu.be/7eSDaYzcdYE) | [Odysee](https://odysee.com/@Neforus:d/internet-content-in-2032:8) |
 | 561 | THE MOST DISGUSTING VIDEO I WILL EVER MAKE! | 2022-10-08 | ![thumb](/thumbnails/561.png) | [Watch](https://youtu.be/flw-aHoYmg0) | [Odysee](https://odysee.com/@Neforus:d/the-most-disgusting-video-i-will-ever:a) |
 | 560 | On SNEAKO's Ban | 2022-10-03 | ![thumb](/thumbnails/560.png) | [Watch](https://youtu.be/VM48A4VoCE4) | [Odysee](https://odysee.com/@Neforus:d/on-sneako's-ban:8) |
-| 559 | AZALI type beat video | 2022-10-02 | ![thumb](/thumbnails/559.png) | [Watch](https://youtu.be/uEtCSOLqqVc) | [Odysee](https://odysee.com/@Neforus:d/azali-type-beat-video:d) |
+| 559 | AZALI type beat video | 2022-10-02 | ![thumb](/thumbnails/559.png) | [Watch](https://youtu.be/uEtCSOLqqVc) | [Odysee](https://odysee.com/@Neforus:d/azali-type-beat-video:d) [Rumble](https://rumble.com/v7goo34-azali-type-beat-video.html) [BitChute](https://www.bitchute.com/video/nl5VwplL78wm/) |
 | 558 | Nerding out | 2022-10-01 | ![thumb](/thumbnails/558.png) | [Watch](https://youtu.be/WF2ws5oOOgE) | [Odysee](https://odysee.com/@Neforus:d/nerding-out:a) |
 | 557 | Twitch Pandemonium and Boyinaband ALLEGATIONS | 2022-09-24 | ![thumb](/thumbnails/557.png) | [Watch](https://youtu.be/RgLB1NFXYWk) | [Odysee](https://odysee.com/@Neforus:d/twitch-pandemonium-and-boyinaband:4) |
 | 556 | ARRESTED | 2022-09-17 | ![thumb](/thumbnails/556.png) | [Watch](https://youtu.be/RK3VfbLDzxc) | [Odysee](https://odysee.com/@Neforus:d/arrested:6) |
