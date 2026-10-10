@@ -119,7 +119,7 @@
 | 554 | WHY | 2022-08-29 | ![thumb](/thumbnails/554.png) | [Watch](https://youtu.be/366hCSfPrQU) | [Odysee](https://odysee.com/@Neforus:d/why:83) |
 | 553 | The Rant | 2022-08-24 | ![thumb](/thumbnails/553.png) | [Watch](https://youtu.be/_feOt_DR2tY) | [Odysee](https://odysee.com/@Neforus:d/the-rant:2) |
 | 552 | Important Video | 2022-08-23 | ![thumb](/thumbnails/552.png) | [Watch](https://youtu.be/aOW6BhOe07E) | [Odysee](https://odysee.com/@Neforus:d/important-video:b) |
-| 551 | Everyone's A Charlatan (Instrumental) | 2022-08-03 | ![thumb](/thumbnails/551.png) | [Watch](https://youtu.be/dnJn7qmq1kE) | [Odysee](https://odysee.com/@Neforus:d/everyone's-a-charlatan-%28instrumental%29:2) [BitChute](https://www.bitchute.com/video/9cpDwRM0bgiQ/) |
+| 551 | Everyone's A Charlatan (Instrumental) | 2022-08-03 | ![thumb](/thumbnails/551.png) | [Watch](https://youtu.be/dnJn7qmq1kE) | [Odysee](https://odysee.com/@Neforus:d/everyone's-a-charlatan-%28instrumental%29:2) [BitChute](https://www.bitchute.com/video/9cpDwRM0bgiQ/) [Rumble](https://rumble.com/v7gnmes-everyones-a-charlatan-instrumental.html) |
 | 550 | Pipelines | 2022-08-01 | ![thumb](/thumbnails/550.png) | [Watch](https://youtu.be/-XYY7hSnZbo) | [Odysee](https://odysee.com/@Neforus:d/pipelines:c) |
 | 549 | Chain Blocking On Twitter | 2022-07-28 | ![thumb](/thumbnails/549.png) | [Watch](https://youtu.be/JNfsBntLeQY) | [Odysee](https://odysee.com/@Neforus:d/chain-blocking-on-twitter:e) |
 | 548 | What Do Billionaires Think Of Millionaires? | 2022-07-27 | ![thumb](/thumbnails/548.png) | [Watch](https://youtu.be/ll64eZBNXu8) | [Odysee](https://odysee.com/@Neforus:d/what-do-billionaires-think-of:0) |
