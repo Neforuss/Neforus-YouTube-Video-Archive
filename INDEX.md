@@ -163,7 +163,7 @@
 | 510 | My Thoughts At The Moment #6: I don't know what is the main topic of this video but its crazy | 2022-05-05 | ![thumb](/thumbnails/510.png) | [Watch](https://youtu.be/68lD9mNciao) | [Odysee](https://odysee.com/@Neforus:d/my-thoughts-at-the-moment-6-i-don't-know:7) |
 | 509 | Coincidences | 2022-04-29 | ![thumb](/thumbnails/509.png) | [Watch](https://youtu.be/caV266AkyvU) | [Odysee](https://odysee.com/@Neforus:d/coincidences:3a) |
 | 508 | ELON MUSK BUYS TWITTER | 2022-04-25 | ![thumb](/thumbnails/508.png) | [Watch](https://youtu.be/sLDrlPlsS1I) | [Odysee](https://odysee.com/@Neforus:d/elon-musk-buys-twitter:5e) |
-| 507 | I Don't Like Keffals | 2022-04-25 | ![thumb](/thumbnails/507.png) | [Watch](https://youtu.be/cx8x-DQK4Sk) | [Odysee](https://odysee.com/@Neforus:d/i-don't-like-keffals:b) · [BitChute](https://www.bitchute.com/video/WmotGyxKsmzz/) |
+| 507 | I Don't Like Keffals | 2022-04-25 | ![thumb](/thumbnails/507.png) | [Watch](https://youtu.be/cx8x-DQK4Sk) | [Odysee](https://odysee.com/@Neforus:d/i-don't-like-keffals:b) · [BitChute](https://www.bitchute.com/video/WmotGyxKsmzz/) · [Rumble](https://rumble.com/v7gnrak-i-dont-like-keffals.html) |
 | 506 | Trippy (instrumental) | 2022-04-23 | ![thumb](/thumbnails/506.png) | [Watch](https://youtu.be/pyYuM5vTdbY) | [Odysee](https://odysee.com/@Neforus:d/trippy-%28instrumental%29:4) |
 | 505 | My Thoughts at the Moment #5: My Future, YouTube, and Life | 2022-04-22 | ![thumb](/thumbnails/505.png) | [Watch](https://youtu.be/2CdyE-UkKWA) | [Odysee](https://odysee.com/@Neforus:d/my-thoughts-at-the-moment-5-future-of:7) |
 | 504 | I Don't Like Vaush | 2022-04-20 | ![thumb](/thumbnails/504.png) | [Watch](https://youtu.be/X9sc0FH0wwo) | [Odysee](https://odysee.com/@Neforus:d/i-don't-like-vaush:6) |
