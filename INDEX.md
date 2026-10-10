@@ -143,7 +143,7 @@
 | 530 | Spilt Milk (Music Video) | 2022-06-18 | ![thumb](/thumbnails/530.png) | [Watch](https://youtu.be/FkhqdLNvn2I) | [Odysee](https://odysee.com/@Neforus:d/spilt-milk-%28music-video%29:e) |
 | 529 | SCHIZOPHRENIA ON DISCORD | 2022-06-16 | ![thumb](/thumbnails/529.png) | [Watch](https://youtu.be/igzLRN3ivNo) | [Odysee](https://odysee.com/@Neforus:d/schizophrenia-on-discord:e) [Bitchute](https://www.bitchute.com/video/i9Qyaqr0J3L1/) [Rumble](https://rumble.com/v7gnvec-schizophrenia-on-discord.html) |
 | 528 | Jubilance (song) | 2022-06-15 | ![thumb](/thumbnails/528.png) | [Watch](https://youtu.be/fTFsBGUBVnU) | [Odysee](https://odysee.com/@Neforus:d/jubilance-%28song%29:4) |
-| 527 | The 7 Levels of LOLCOWS | 2022-06-14 | ![thumb](/thumbnails/527.png) | [Watch](https://youtu.be/c9w9H4bQFJ4) | [Odysee](https://odysee.com/@Neforus:d/lolcows:b) |
+| 527 | The 7 Levels of LOLCOWS | 2022-06-14 | ![thumb](/thumbnails/527.png) | [Watch](https://youtu.be/c9w9H4bQFJ4) | [Odysee](https://odysee.com/@Neforus:d/lolcows:b) [Bitchute](https://www.bitchute.com/video/NCWfeFQoGu3y/) |
 | 526 | Watching Unlisted YouTube Videos when I'm not allowed to | 2022-06-13 | ![thumb](/thumbnails/526.png) | [Watch](https://youtu.be/gT5GzklLGuY) | [Odysee](https://odysee.com/@Neforus:d/watching-unlisted-youtube-videos:0) |
 | 525 | Cazika II (Instrumental) | 2022-06-12 | ![thumb](/thumbnails/525.png) | [Watch](https://youtu.be/I6jiFncsyzA) | [Odysee](https://odysee.com/@Neforus:d/cazika-ii-%28instrumental%29:3) |
 | 524 | On TheActMan Situation | 2022-06-09 | ![thumb](/thumbnails/524.png) | [Watch](https://youtu.be/UCu2nHbCed8) | [Odysee](https://odysee.com/@Neforus:d/on-theactman-situation:4) |
