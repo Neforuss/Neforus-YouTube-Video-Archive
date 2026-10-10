@@ -167,7 +167,7 @@
 | 506 | Trippy (instrumental) | 2022-04-23 | ![thumb](/thumbnails/506.png) | [Watch](https://youtu.be/pyYuM5vTdbY) | [Odysee](https://odysee.com/@Neforus:d/trippy-%28instrumental%29:4) |
 | 505 | My Thoughts at the Moment #5: My Future, YouTube, and Life | 2022-04-22 | ![thumb](/thumbnails/505.png) | [Watch](https://youtu.be/2CdyE-UkKWA) | [Odysee](https://odysee.com/@Neforus:d/my-thoughts-at-the-moment-5-future-of:7) |
 | 504 | I Don't Like Vaush | 2022-04-20 | ![thumb](/thumbnails/504.png) | [Watch](https://youtu.be/X9sc0FH0wwo) | [Odysee](https://odysee.com/@Neforus:d/i-don't-like-vaush:6) |
-| 503 | Fame is Like a Creature | 2022-04-27 | ![thumb](/thumbnails/503.png) | [Watch](https://youtu.be/yQZoBc1J9WU) | [Odysee](https://odysee.com/@Neforus:d/fame-is-like-a-creature:6) · [Rumble](https://rumble.com/v7gnoy4-fame-is-like-a-creature.html) |
+| 503 | Fame is Like a Creature | 2022-04-27 | ![thumb](/thumbnails/503.png) | [Watch](https://youtu.be/yQZoBc1J9WU) | [Odysee](https://odysee.com/@Neforus:d/fame-is-like-a-creature:6) · [Rumble](https://rumble.com/v7gnoy4-fame-is-like-a-creature.html) · [BitChute](https://www.bitchute.com/video/wtnKOj8RKDOA/) |
 | 502 | On Craziness | 2022-04-22 | ![thumb](/thumbnails/502.png) | [Watch](https://youtu.be/18rEf3roBvg) | [Odysee](https://odysee.com/@Neforus:d/on-craziness:e) |
 | 501 | The Horseshoe of Practical Intelligence | 2022-04-20 | ![thumb](/thumbnails/501.png) | [Watch](https://youtu.be/4iC9_xyjz7w) | [Odysee](https://odysee.com/@Neforus:d/the-horseshoe-of-practical-intelligence:e) |
 | 500 | Obscure Sounding Years | 2022-04-15 | ![thumb](/thumbnails/500.png) | [Watch](https://youtu.be/OmqJVe8D4-c) | [Odysee](https://odysee.com/@Neforus:d/obscure-sounding-years:0) |
