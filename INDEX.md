@@ -161,7 +161,7 @@
 | 512 | Kanye West - The College Dropout (Album Review) | 2022-05-12 | ![thumb](/thumbnails/512.png) | [Watch](https://youtu.be/U5-lLmKdZSQ) | [Odysee](https://odysee.com/@Neforus:d/kanye-west-the-college-dropout-%28album:3) |
 | 511 | Nas - Illmatic (Album Review) | 2022-05-06 | ![thumb](/thumbnails/511.png) | [Watch](https://youtu.be/coYSNigFVOE) | [Odysee](https://odysee.com/@Neforus:d/nas-illmatic-%28album-review%29:e) |
 | 510 | My Thoughts At The Moment #6: I don't know what is the main topic of this video but its crazy | 2022-05-05 | ![thumb](/thumbnails/510.png) | [Watch](https://youtu.be/68lD9mNciao) | [Odysee](https://odysee.com/@Neforus:d/my-thoughts-at-the-moment-6-i-don't-know:7) |
-| 509 | Coincidences | 2022-04-29 | ![thumb](/thumbnails/509.png) | [Watch](https://youtu.be/caV266AkyvU) | [Odysee](https://odysee.com/@Neforus:d/coincidences:3a) |
+| 509 | Coincidences | 2022-04-29 | ![thumb](/thumbnails/509.png) | [Watch](https://youtu.be/caV266AkyvU) | [Odysee](https://odysee.com/@Neforus:d/coincidences:3a) [BitChute](https://www.bitchute.com/video/mWx5808B7MgY/) |
 | 508 | ELON MUSK BUYS TWITTER | 2022-04-25 | ![thumb](/thumbnails/508.png) | [Watch](https://youtu.be/sLDrlPlsS1I) | [Odysee](https://odysee.com/@Neforus:d/elon-musk-buys-twitter:5e) |
 | 507 | I Don't Like Keffals | 2022-04-25 | ![thumb](/thumbnails/507.png) | [Watch](https://youtu.be/cx8x-DQK4Sk) | [Odysee](https://odysee.com/@Neforus:d/i-don't-like-keffals:b) · [BitChute](https://www.bitchute.com/video/WmotGyxKsmzz/) · [Rumble](https://rumble.com/v7gnrak-i-dont-like-keffals.html) |
 | 506 | Trippy (instrumental) | 2022-04-23 | ![thumb](/thumbnails/506.png) | [Watch](https://youtu.be/pyYuM5vTdbY) | [Odysee](https://odysee.com/@Neforus:d/trippy-%28instrumental%29:4) |
