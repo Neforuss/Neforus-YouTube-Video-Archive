@@ -141,7 +141,7 @@
 | 532 | You Guys Wanna See Something? | 2022-06-21 | ![thumb](/thumbnails/532.png) | [Watch](https://youtu.be/qRnv18V3ufs) | [Odysee](https://odysee.com/@Neforus:d/you-guys-wanna-see-something:f) |
 | 531 | SECOND CHANNELS | 2022-06-20 | ![thumb](/thumbnails/531.png) | [Watch](https://youtu.be/DQ4Zoz-LRD8) | [Odysee](https://odysee.com/@Neforus:d/second-channels:1) |
 | 530 | Spilt Milk (Music Video) | 2022-06-18 | ![thumb](/thumbnails/530.png) | [Watch](https://youtu.be/FkhqdLNvn2I) | [Odysee](https://odysee.com/@Neforus:d/spilt-milk-%28music-video%29:e) |
-| 529 | SCHIZOPHRENIA ON DISCORD | 2022-06-16 | ![thumb](/thumbnails/529.png) | [Watch](https://youtu.be/igzLRN3ivNo) | [Odysee](https://odysee.com/@Neforus:d/schizophrenia-on-discord:e) |
+| 529 | SCHIZOPHRENIA ON DISCORD | 2022-06-16 | ![thumb](/thumbnails/529.png) | [Watch](https://youtu.be/igzLRN3ivNo) | [Odysee](https://odysee.com/@Neforus:d/schizophrenia-on-discord:e) [Bitchute](https://www.bitchute.com/video/i9Qyaqr0J3L1/) |
 | 528 | Jubilance (song) | 2022-06-15 | ![thumb](/thumbnails/528.png) | [Watch](https://youtu.be/fTFsBGUBVnU) | [Odysee](https://odysee.com/@Neforus:d/jubilance-%28song%29:4) |
 | 527 | The 7 Levels of LOLCOWS | 2022-06-14 | ![thumb](/thumbnails/527.png) | [Watch](https://youtu.be/c9w9H4bQFJ4) | [Odysee](https://odysee.com/@Neforus:d/lolcows:b) |
 | 526 | Watching Unlisted YouTube Videos when I'm not allowed to | 2022-06-13 | ![thumb](/thumbnails/526.png) | [Watch](https://youtu.be/gT5GzklLGuY) | [Odysee](https://odysee.com/@Neforus:d/watching-unlisted-youtube-videos:0) |
