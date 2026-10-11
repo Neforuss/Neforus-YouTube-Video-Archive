@@ -107,7 +107,7 @@
 | 566 | OH SO NOW YOU WANT TO WORK?! | 2022-10-19 | ![thumb](/thumbnails/566.png) | [Watch](https://youtu.be/jADDbBDSWOc) | [Odysee](https://odysee.com/@Neforus:d/oh-so-now-you-want-to-work-!:f) [BitChute](https://www.bitchute.com/video/gB8NV7DvTPL7/) [Rumble](https://rumble.com/v7gnlys-oh-so-now-you-want-to-work.html) |
 | 565 | Should I Go Back to Geometry Dash? | 2022-10-18 | ![thumb](/thumbnails/565.png) | [Watch](https://youtu.be/VYJM659XIpk) | [Odysee](https://odysee.com/@Neforus:d/should-i-go-back:2) |
 | 564 | Opposites | 2022-10-17 | ![thumb](/thumbnails/564.png) | [Watch](https://youtu.be/1vLgzlEnv-4) | [Odysee](https://odysee.com/@Neforus:d/opposites:6) |
-| 563 | Funniest Thing You'll See Today | 2022-10-16 | ![thumb](/thumbnails/563.png) | [Watch](https://youtu.be/lvvyrAhy_ps) | [Odysee](https://odysee.com/@Neforus:d/funniest-thing-you'll-see-today:2) |
+| 563 | Funniest Thing You'll See Today | 2022-10-16 | ![thumb](/thumbnails/563.png) | [Watch](https://youtu.be/lvvyrAhy_ps) | [BitChute](https://www.bitchute.com/video/Qrgvkirf1S0c/) [Odysee](https://odysee.com/@Neforus:d/funniest-thing-you'll-see-today:2) |
 | 562 | Internet Content in 2032 | 2022-10-15 | ![thumb](/thumbnails/562.png) | [Watch](https://youtu.be/7eSDaYzcdYE) | [Odysee](https://odysee.com/@Neforus:d/internet-content-in-2032:8) |
 | 561 | THE MOST DISGUSTING VIDEO I WILL EVER MAKE! | 2022-10-08 | ![thumb](/thumbnails/561.png) | [Watch](https://youtu.be/flw-aHoYmg0) | [Odysee](https://odysee.com/@Neforus:d/the-most-disgusting-video-i-will-ever:a) |
 | 560 | On SNEAKO's Ban | 2022-10-03 | ![thumb](/thumbnails/560.png) | [Watch](https://youtu.be/VM48A4VoCE4) | [Odysee](https://odysee.com/@Neforus:d/on-sneako's-ban:8) |
