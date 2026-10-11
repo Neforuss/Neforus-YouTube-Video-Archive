@@ -117,7 +117,7 @@
 | 556 | ARRESTED | 2022-09-17 | ![thumb](/thumbnails/556.png) | [Watch](https://youtu.be/RK3VfbLDzxc) | [Odysee](https://odysee.com/@Neforus:d/arrested:6) |
 | 555 | The Rant #2 | 2022-09-10 | ![thumb](/thumbnails/555.png) | [Watch](https://youtu.be/mtW5jVQkJes) | [Odysee](https://odysee.com/@Neforus:d/the-rant-2:e) |
 | 554 | WHY | 2022-08-29 | ![thumb](/thumbnails/554.png) | [Watch](https://youtu.be/366hCSfPrQU) | [Odysee](https://odysee.com/@Neforus:d/why:83) |
-| 553 | The Rant | 2022-08-24 | ![thumb](/thumbnails/553.png) | [Watch](https://youtu.be/_feOt_DR2tY) | [Odysee](https://odysee.com/@Neforus:d/the-rant:2) |
+| 553 | The Rant | 2022-08-24 | ![thumb](/thumbnails/553.png) | [Watch](https://youtu.be/_feOt_DR2tY) | [Rumble](https://rumble.com/v7gpj88-the-rant.html) [Bitchute](https://www.bitchute.com/video/W6RJggFQed1I/) [Odysee](https://odysee.com/@Neforus:d/the-rant:2) |
 | 552 | Important Video | 2022-08-23 | ![thumb](/thumbnails/552.png) | [Watch](https://youtu.be/aOW6BhOe07E) | [Odysee](https://odysee.com/@Neforus:d/important-video:b) |
 | 551 | Everyone's A Charlatan (Instrumental) | 2022-08-03 | ![thumb](/thumbnails/551.png) | [Watch](https://youtu.be/dnJn7qmq1kE) | [Odysee](https://odysee.com/@Neforus:d/everyone's-a-charlatan-%28instrumental%29:2) [BitChute](https://www.bitchute.com/video/9cpDwRM0bgiQ/) [Rumble](https://rumble.com/v7gnmes-everyones-a-charlatan-instrumental.html) |
 | 550 | Pipelines | 2022-08-01 | ![thumb](/thumbnails/550.png) | [Watch](https://youtu.be/-XYY7hSnZbo) | [Odysee](https://odysee.com/@Neforus:d/pipelines:c) |
