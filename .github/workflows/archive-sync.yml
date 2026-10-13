@@ -1,0 +1,88 @@
+name: Archive sync
+
+# Adds new long-form YouTube uploads to INDEX.md and README.md and fills in
+# their Rumble, Odysee, BitChute and X mirror links. See scripts/archive_sync.py.
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"   # every 2 hours
+  workflow_dispatch:          # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: archive-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install --quiet pillow
+
+      - name: Sync the archive
+        id: sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: python scripts/archive_sync.py
+
+      - name: Keep the schedule alive
+        # GitHub turns scheduled workflows off after 60 days without commits.
+        # If the repo has been quiet for 45 days, touch the keep-alive file.
+        run: |
+          last=$(git log -1 --format=%ct)
+          if [ $(( $(date +%s) - last )) -gt $(( 45 * 86400 )) ]; then
+            {
+              echo "This file is updated automatically so GitHub keeps the archive sync running"
+              echo "during long breaks between uploads. It can be ignored."
+              echo
+              date -u +"Last keep-alive: %Y-%m-%d %H:%M UTC"
+            } > .github/keepalive.txt
+          fi
+
+      - name: Commit changes
+        env:
+          MESSAGE: ${{ steps.sync.outputs.message || 'Archive sync' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add INDEX.md README.md thumbnails .github/archive-sync-state.json .github/keepalive.txt
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit --quiet -m "$MESSAGE"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet origin main && git push --quiet origin HEAD:main && exit 0
+            sleep 15
+          done
+          exit 1
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="[archive-sync] The archive sync is failing"
+          open=$(gh issue list --state open --search "\"The archive sync is failing\" in:title" --json number --jq 'length')
+          if [ "$open" = "0" ]; then
+            gh issue create --title "$title" --assignee Neforuss --body "@Neforuss
+
+          The scheduled archive sync stopped with an error, so new videos and mirrors aren't being added right now.
+
+          Details: $RUN_URL
+
+          This issue closes itself once a run succeeds again."
+          fi

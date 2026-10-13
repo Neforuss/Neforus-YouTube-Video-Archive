@@ -45,6 +45,7 @@
 
 <sub>LATEST UPLOADS</sub>
 
+<!-- LATEST-UPLOADS:START -->
 <table>
 <tr>
 <td align="center" width="33%"><a href="https://youtu.be/4znEWIaJb6Q"><img src="thumbnails/666.png" alt="666" width="260"></a><br><sub><b>#666</b> · 2026-09-29</sub><br><sub>How to appeal Community Guideline Strikes using HINDI</sub></td>
@@ -57,6 +58,7 @@
 <td align="center" width="33%"><a href="https://youtu.be/pwdTdKPNpjI"><img src="thumbnails/661.png" alt="661" width="260"></a><br><sub><b>#661</b> · 2026-06-29</sub><br><sub>The June 2026 Video</sub></td>
 </tr>
 </table>
+<!-- LATEST-UPLOADS:END -->
 
 <sub>Every video, thumbnail and mirror link lives in <a href="https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md"><code>INDEX.md</code></a> and on <a href="https://neforus.com/archive/">neforus.com/archive</a>.</sub>
 
