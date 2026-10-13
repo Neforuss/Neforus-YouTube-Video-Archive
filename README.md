@@ -13,11 +13,11 @@
 [![Last update](https://img.shields.io/github/last-commit/Neforuss/Neforus-YouTube-Video-Archive?style=for-the-badge&label=last%20update&labelColor=17120d&color=f6efe2)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/commits/main)
 [![Website](https://img.shields.io/badge/neforus.com-archive-1b8fc7?style=for-the-badge&labelColor=17120d)](https://neforus.com/archive/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
-[![Rumble](https://img.shields.io/badge/Rumble-85C742?style=flat-square&logo=rumble&logoColor=white)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
-[![Odysee](https://img.shields.io/badge/Odysee-EF1970?style=flat-square&logo=odysee&logoColor=white)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
-[![BitChute](https://img.shields.io/badge/BitChute-EF4137?style=flat-square&logoColor=white)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2gVzcWyCakpUZhwcKIr74g)
+[![Rumble](https://img.shields.io/badge/Rumble-85C742?style=flat-square&logo=rumble&logoColor=white)](https://rumble.com/user/Neforus)
+[![Odysee](https://img.shields.io/badge/Odysee-EF1970?style=flat-square&logo=odysee&logoColor=white)](https://odysee.com/@Neforus)
+[![BitChute](https://img.shields.io/badge/BitChute-EF4137?style=flat-square&logoColor=white)](https://www.bitchute.com/channel/xz6ZHIfOqeMP/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Neforus)
 
 <br>
 
