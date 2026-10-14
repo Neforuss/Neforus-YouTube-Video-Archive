@@ -8,7 +8,7 @@
 
 <br>
 
-[![Latest](https://img.shields.io/badge/latest-%23666-1b8fc7?style=for-the-badge&labelColor=17120d)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
+[![Latest](https://img.shields.io/badge/latest-%23667-1b8fc7?style=for-the-badge&labelColor=17120d)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
 [![Since](https://img.shields.io/badge/since-2017-d9822b?style=for-the-badge&labelColor=17120d)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/blob/main/INDEX.md)
 [![Last update](https://img.shields.io/github/last-commit/Neforuss/Neforus-YouTube-Video-Archive?style=for-the-badge&label=last%20update&labelColor=17120d&color=f6efe2)](https://github.com/Neforuss/Neforus-YouTube-Video-Archive/commits/main)
 [![Website](https://img.shields.io/badge/neforus.com-archive-1b8fc7?style=for-the-badge&labelColor=17120d)](https://neforus.com/archive/)
@@ -48,14 +48,14 @@
 <!-- LATEST-UPLOADS:START -->
 <table>
 <tr>
+<td align="center" width="33%"><a href="https://youtu.be/TcC0YaynfLo"><img src="thumbnails/667.png" alt="667" width="260"></a><br><sub><b>#667</b> · 2026-10-13</sub><br><sub>Neforus dot com (my website)</sub></td>
 <td align="center" width="33%"><a href="https://youtu.be/4znEWIaJb6Q"><img src="thumbnails/666.png" alt="666" width="260"></a><br><sub><b>#666</b> · 2026-09-29</sub><br><sub>How to appeal Community Guideline Strikes using HINDI</sub></td>
 <td align="center" width="33%"><a href="https://youtu.be/l0j4n3ewPv0"><img src="thumbnails/665.png" alt="665" width="260"></a><br><sub><b>#665</b> · 2026-08-29</sub><br><sub>My laptop is retarded and I don’t know what to do</sub></td>
-<td align="center" width="33%"><a href="https://youtu.be/6VZ3d0Ps5rA"><img src="thumbnails/664.png" alt="664" width="260"></a><br><sub><b>#664</b> · 2026-08-15</sub><br><sub>My Geometry Dash Demonlist Spreadsheet</sub></td>
 </tr>
 <tr>
+<td align="center" width="33%"><a href="https://youtu.be/6VZ3d0Ps5rA"><img src="thumbnails/664.png" alt="664" width="260"></a><br><sub><b>#664</b> · 2026-08-15</sub><br><sub>My Geometry Dash Demonlist Spreadsheet</sub></td>
 <td align="center" width="33%"><a href="https://youtu.be/ExNgBISjlKc"><img src="thumbnails/663.png" alt="663" width="260"></a><br><sub><b>#663</b> · 2026-07-26</sub><br><sub>The Rot and Decay of Johannesburg</sub></td>
 <td align="center" width="33%"><a href="https://youtu.be/Isn6IwRnLVI"><img src="thumbnails/662.png" alt="662" width="260"></a><br><sub><b>#662</b> · 2026-07-19</sub><br><sub>NVIDIA SHADOWPLAY IS KILLING ME</sub></td>
-<td align="center" width="33%"><a href="https://youtu.be/pwdTdKPNpjI"><img src="thumbnails/661.png" alt="661" width="260"></a><br><sub><b>#661</b> · 2026-06-29</sub><br><sub>The June 2026 Video</sub></td>
 </tr>
 </table>
 <!-- LATEST-UPLOADS:END -->
