@@ -35,6 +35,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -63,6 +64,8 @@ RECHECK_DAYS = 30
 X_GRACE_HOURS = 48
 # Notify when any other mirror is still missing this long after the upload.
 MIRROR_GRACE_HOURS = 72
+# Notify when YouTube itself can't be read for this long.
+YOUTUBE_ALERT_HOURS = 6
 
 ROOT = Path(__file__).resolve().parent.parent
 INDEX = ROOT / "INDEX.md"
@@ -227,16 +230,20 @@ ATOM = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/sc
         "media": "http://search.yahoo.com/mrss/"}
 
 
-def youtube_feed(playlist_prefix: str | None) -> list[dict] | None:
+def youtube_feed(playlist_prefix: str | None, tries: int = 4) -> list[dict] | None:
+    """Read a YouTube RSS feed. These feeds fail intermittently, so retry."""
     if playlist_prefix:
         url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_prefix}{YOUTUBE_CHANNEL_ID[2:]}"
     else:
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL_ID}"
-    status, body = http(url)
-    if status == 404 and playlist_prefix in ("UUSH", "UULV"):
-        return []  # channel has no Shorts / no livestreams
+    status = None
+    for attempt in range(tries):
+        status, body = http(url)
+        if status == 200:
+            break
+        time.sleep(2 + 3 * attempt)
     if status != 200:
-        log(f"  YouTube feed {playlist_prefix or 'UC'}: HTTP {status}")
+        log(f"  YouTube feed {playlist_prefix or 'channel'}: HTTP {status}")
         return None
     root = ET.fromstring(body)
     items = []
@@ -246,6 +253,7 @@ def youtube_feed(playlist_prefix: str | None) -> list[dict] | None:
             "title": e.findtext("a:title", "", ATOM),
             "published": parse_time(e.findtext("a:published", "", ATOM)),
             "description": e.findtext("media:group/media:description", "", ATOM) or "",
+            "exact_date": True,
         })
     return items
 
@@ -259,18 +267,97 @@ def is_short(video_id: str) -> bool | None:
     return None
 
 
+AGO_RE = re.compile(r"(\d+)\s*(second|minute|hour|day|week|month|year)s?\s+ago", re.I)
+AGO_UNITS = {"second": 1, "minute": 60, "hour": 3600, "day": 86400, "week": 604800,
+             "month": 2629800, "year": 31557600}
+
+
+def _lockups(obj, out):
+    if isinstance(obj, dict):
+        if "lockupViewModel" in obj:
+            out.append(obj["lockupViewModel"])
+        elif "videoRenderer" in obj:
+            out.append({"_legacy": obj["videoRenderer"]})
+        for v in obj.values():
+            _lockups(v, out)
+    elif isinstance(obj, list):
+        for v in obj:
+            _lockups(v, out)
+
+
+def youtube_videos_tab(tries: int = 3) -> list[dict] | None:
+    """The channel's Videos tab. YouTube lists only regular uploads there:
+    no Shorts (Shorts tab) and no livestreams (Live tab)."""
+    url = f"https://www.youtube.com/channel/{YOUTUBE_CHANNEL_ID}/videos?hl=en&gl=US"
+    for attempt in range(tries):
+        status, body = http(url, headers={"Cookie": "SOCS=CAI; CONSENT=YES+1"})
+        m = re.search(rb"var ytInitialData = (\{.*?\});</script>", body or b"", re.S) if status == 200 else None
+        if m:
+            try:
+                data = json.loads(m.group(1))
+            except ValueError:
+                data = None
+            if data:
+                raw: list = []
+                _lockups(data, raw)
+                out, seen = [], set()
+                for item in raw:
+                    if "_legacy" in item:
+                        v = item["_legacy"]
+                        vid = v.get("videoId")
+                        title = "".join(r.get("text", "") for r in (v.get("title") or {}).get("runs", []))
+                        ago = json.dumps(v.get("publishedTimeText", ""))
+                    else:
+                        if item.get("contentType") != "LOCKUP_CONTENT_TYPE_VIDEO":
+                            continue
+                        vid = item.get("contentId")
+                        md = (item.get("metadata") or {}).get("lockupMetadataViewModel") or {}
+                        title = (md.get("title") or {}).get("content", "")
+                        ago = json.dumps(md.get("metadata", ""))
+                    if not vid or vid in seen:
+                        continue
+                    seen.add(vid)
+                    m2 = AGO_RE.search(ago)
+                    published = None
+                    if m2:
+                        published = NOW - dt.timedelta(seconds=int(m2.group(1)) * AGO_UNITS[m2.group(2).lower()])
+                    out.append({"id": vid, "title": title, "published": published,
+                                "description": "", "exact_date": False})
+                if out:
+                    return out
+        log(f"  YouTube Videos tab: attempt {attempt + 1} failed (HTTP {status})")
+        time.sleep(3 + 3 * attempt)
+    return None
+
+
 def youtube_uploads() -> tuple[list[dict] | None, str | None]:
-    """Long-form uploads only. Returns (videos, error)."""
-    videos = youtube_feed("UULF")
-    if videos is None:
-        return None, "could not read the YouTube long-form uploads feed"
-    shorts = youtube_feed("UUSH")
-    lives = youtube_feed("UULV")
+    """Regular (long-form) uploads only, newest first. Returns (videos, error).
+
+    The Videos tab decides what counts (it never lists Shorts or livestreams).
+    The channel RSS feed supplies exact upload times and descriptions. If the
+    Videos tab can't be read, the RSS feeds are used instead and a video is
+    only taken when it is positively known not to be a Short or a livestream.
+    """
+    tab = youtube_videos_tab()
+    feed = youtube_feed(None)
+    feed_by_id = {v["id"]: v for v in feed or []}
+    if tab is not None:
+        out = []
+        for v in tab:
+            exact = feed_by_id.get(v["id"])
+            out.append(exact if exact else v)
+        return out, None
+    if feed is None:
+        feed = youtube_feed("UULF")
+        if feed is None:
+            return None, "could not read YouTube (Videos tab and RSS feeds all failed)"
+    shorts = youtube_feed("UUSH", tries=2)
+    lives = youtube_feed("UULV", tries=2)
     if lives is None:
-        return None, "could not read the YouTube livestreams feed, so livestreams can't be ruled out"
+        return None, "could not read the YouTube Videos tab or livestreams feed, so livestreams can't be ruled out"
     excluded = {v["id"] for v in (shorts or []) + lives}
     out = []
-    for v in videos:
+    for v in feed:
         if v["id"] in excluded:
             continue
         if shorts is None and is_short(v["id"]) is not False:
@@ -616,7 +703,14 @@ def main() -> int:
         if not v["id"] or v["published"] is None:
             continue
         local_date = v["published"].astimezone(tz).date().isoformat()
-        if v["id"] in index_text or local_date < newest_date:
+        if v["id"] in index_text:
+            continue
+        # Older than the newest row: an old upload that was left out on purpose.
+        # Dates read from "3 hours ago" style text are approximate, so allow slack.
+        slack = 0 if v.get("exact_date") else 2
+        floor = (dt.date.fromisoformat(newest_date) - dt.timedelta(days=slack)).isoformat() \
+            if newest_date != "0000-00-00" else newest_date
+        if local_date < floor:
             continue
         new_videos.append(v)
 
@@ -637,7 +731,8 @@ def main() -> int:
             placeholder.number = str(number + 1)
             placeholder.changed = True
         added_rows.append(row)
-        state["videos"][v["id"]] = {"number": str(number), "published": v["published"].isoformat()}
+        state["videos"][v["id"]] = {"number": str(number), "published": v["published"].isoformat(),
+                                    "approx_date": not v.get("exact_date")}
         log(f"  New video #{number}: {v['title']}")
         SUMMARY.append(f"add #{number}")
 
@@ -648,6 +743,18 @@ def main() -> int:
     # Newest first, placeholder on top.
     others = [r for r in rows if r is not placeholder]
     all_rows = ([placeholder] if placeholder else []) + list(reversed(added_rows)) + others
+
+    # Replace approximate dates once YouTube's feed gives the exact upload time.
+    for r in all_rows:
+        meta = state["videos"].get(r.yt_id or "")
+        exact = feed_by_id.get(r.yt_id or "")
+        if meta and meta.get("approx_date") and exact and exact.get("exact_date"):
+            date = exact["published"].astimezone(tz).date().isoformat()
+            if r.date != date:
+                log(f"  #{r.number}: date corrected {r.date} -> {date}")
+                r.date, r.changed = date, True
+                SUMMARY.append(f"#{r.number} date")
+            meta["published"], meta["approx_date"] = exact["published"].isoformat(), False
 
     # ---- Mirrors ------------------------------------------------------
     cutoff = (NOW.astimezone(tz) - dt.timedelta(days=RECHECK_DAYS)).date().isoformat()
@@ -701,9 +808,23 @@ def main() -> int:
         if (NOW - published).days > RECHECK_DAYS and not meta.get("issue"):
             state["videos"].pop(vid, None)
 
+    # Tell the owner if YouTube can't be read for a while (new videos would be missed).
     if yt_error:
         log(f"YouTube: {yt_error}")
+        since = parse_time(state.get("youtube_fail_since")) or NOW
+        state["youtube_fail_since"] = since.isoformat()
+        hours = (NOW - since).total_seconds() / 3600
+        if hours >= YOUTUBE_ALERT_HOURS and not state.get("youtube_issue"):
+            state["youtube_issue"] = open_issue(
+                "[archive-sync] Can't read YouTube, new videos aren't being added",
+                f"For about {int(hours)} hours the sync hasn't been able to read the YouTube channel:\n\n"
+                f"> {yt_error}\n\nNew uploads won't be added to INDEX.md or README.md until this clears. "
+                "The sync keeps trying every run and will close this issue on its own once it works again.") or True
     else:
+        state.pop("youtube_fail_since", None)
+        issue = state.pop("youtube_issue", None)
+        if isinstance(issue, int):
+            close_issue(issue, "YouTube can be read again; the sync is back to normal.")
         close_failure_issue()
 
     # ---- Write --------------------------------------------------------
