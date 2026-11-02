@@ -7,9 +7,10 @@
     },
     "TcC0YaynfLo": {
       "approx_date": false,
-      "issue": 1,
+      "issue": null,
       "number": "667",
-      "published": "2026-10-13T20:40:30+00:00"
+      "published": "2026-10-13T20:40:30+00:00",
+      "resolved": true
     },
     "j9Iot1d6fVk": {
       "approx_date": false,
