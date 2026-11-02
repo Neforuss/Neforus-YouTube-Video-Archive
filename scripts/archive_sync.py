@@ -6,9 +6,14 @@ Runs on a schedule in GitHub Actions. Each run it:
   1. Reads the long-form uploads feed of the YouTube channel (Shorts and
      livestreams are excluded) and adds any new video to INDEX.md, taking the
      "Next upload" production number, with its title, date and thumbnail.
-  2. Looks for the mirrors of recent videos on Rumble, Odysee, BitChute and
-     X, and adds any links that are still missing. An upload whose title or
-     link says "UNCENSORED" is listed separately as "(Uncensored)" next to the
+  2. Looks for the mirrors of every public video in INDEX.md on Rumble,
+     Odysee, BitChute and X, and adds any links that are still missing.
+     Hourly runs read the newest uploads on each platform; once a day a deep
+     scan reads each channel's whole upload list. Videos from the last
+     RECHECK_DAYS are matched by title; older videos only by their YouTube
+     link/ID or an exact title that fits no other video, so a backfilled
+     mirror is linked without guessing. An upload whose title or link says
+     "UNCENSORED" is listed separately as "(Uncensored)" next to the
      automatic reupload on the same platform.
   3. Rebuilds the "Latest uploads" grid and badge in README.md.
   4. Opens a GitHub issue (assigned to the repo owner, so GitHub emails them)
@@ -23,6 +28,7 @@ Environment variables:
   GITHUB_REPOSITORY  owner/repo (provided by GitHub Actions)
   X_BEARER_TOKEN     optional; an X API bearer token, used first when set
   DRY_RUN=1          print what would change, write nothing, open no issues
+  DEEP_SCAN=1        read every page of every channel this run
 """
 
 from __future__ import annotations
@@ -58,8 +64,14 @@ REPO_OWNER = "Neforuss"
 # Upload dates in INDEX.md are written in this time zone.
 TIMEZONE = "America/Chicago"
 
-# Videos uploaded within this many days are rechecked for missing mirrors.
+# Videos uploaded within this many days are matched to mirrors by similar
+# title. Older videos need an exact title match (see find_mirrors).
 RECHECK_DAYS = 30
+# Hours between deep scans that read every page of every channel.
+DEEP_SCAN_HOURS = 20
+# Pages read per platform: on an hourly run, and on a deep scan.
+PAGES_NORMAL = 2
+PAGES_DEEP = 40
 # Notify when X is still missing this long after the YouTube upload.
 X_GRACE_HOURS = 48
 # Notify when any other mirror is still missing this long after the upload.
@@ -154,8 +166,10 @@ def is_uncensored(*texts: str) -> bool:
 
 
 YT_ID_RE = re.compile(r"(?:youtu\.be/|youtube\.com/(?:watch\?(?:[^\s\"<>]*&)?v=|shorts/|live/|embed/))([0-9A-Za-z_-]{11})")
-RUMBLE_RE = re.compile(r"https?://(?:www\.)?rumble\.com/(v[0-9a-z]{4,})(?:-[^\s\"<>)\]]*?\.html|\.html)?(?=[\s\"<>)\]?#]|$)", re.I)
-ODYSEE_RE = re.compile(r"https?://(?:www\.)?odysee\.com/(?:(@[^\s/\"<>)\]]+)/)?([^\s/@\"<>)\]:]+):([0-9a-z]+)", re.I)
+RUMBLE_RE = re.compile(r"https?://(?:www\.)?rumble\.com/(?:shorts/)?(v[0-9a-z]{4,})(?:-[^\s\"<>)\]]*?\.html|\.html)?(?=[\s\"<>)\]?#]|$)", re.I)
+# Odysee names can hold one level of parentheses, e.g. -667--Neforus-dot-com-(my-website)-1080p60:d
+ODYSEE_RE = re.compile(r"https?://(?:www\.)?odysee\.com/(?:(@[^\s/\"<>)\]]+)/)?"
+                       r"((?:[^\s/@\"<>()\]:]|\([^\s/@\"<>()\]:]*\))+):([0-9a-z]+)", re.I)
 BITCHUTE_RE = re.compile(r"https?://(?:www\.)?bitchute\.com/video/([0-9A-Za-z_-]+)/?", re.I)
 X_RE = re.compile(r"https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/(" + "|".join(X_HANDLES) + r")/status/(\d+)", re.I)
 
@@ -366,15 +380,22 @@ def youtube_uploads() -> tuple[list[dict] | None, str | None]:
     return out, None
 
 
-def odysee_uploads() -> tuple[list[Upload], str | None]:
-    payload = {"jsonrpc": "2.0", "method": "claim_search", "params": {
-        "channel": ODYSEE_CHANNEL, "claim_type": ["stream"], "order_by": ["release_time"],
-        "page_size": 50, "page": 1, "no_totals": True}}
-    status, data = http_json("https://api.na-backend.odysee.com/api/v1/proxy?m=claim_search", payload)
-    try:
-        items = data["result"]["items"]
-    except (TypeError, KeyError):
-        return [], f"Odysee API returned HTTP {status}"
+def odysee_uploads(pages: int = 1) -> tuple[list[Upload], str | None]:
+    items: list = []
+    for page in range(1, pages + 1):
+        payload = {"jsonrpc": "2.0", "method": "claim_search", "params": {
+            "channel": ODYSEE_CHANNEL, "claim_type": ["stream"], "order_by": ["release_time"],
+            "page_size": 50, "page": page, "no_totals": True}}
+        status, data = http_json("https://api.na-backend.odysee.com/api/v1/proxy?m=claim_search", payload)
+        try:
+            batch = data["result"]["items"]
+        except (TypeError, KeyError):
+            if page == 1:
+                return [], f"Odysee API returned HTTP {status}"
+            break   # keep what the earlier pages gave
+        items += batch
+        if len(batch) < 50:
+            break
     out = []
     for c in items:
         value = c.get("value") or {}
@@ -388,13 +409,20 @@ def odysee_uploads() -> tuple[list[Upload], str | None]:
     return out, None
 
 
-def bitchute_uploads() -> tuple[list[Upload], str | None]:
-    status, data = http_json("https://api.bitchute.com/api/beta/channel/videos",
-                             {"channel_id": BITCHUTE_CHANNEL_ID, "offset": 0, "limit": 50})
-    if not isinstance(data, dict) or "videos" not in data:
-        return [], f"BitChute API returned HTTP {status}"
+def bitchute_uploads(pages: int = 1) -> tuple[list[Upload], str | None]:
+    videos: list = []
+    for page in range(pages):
+        status, data = http_json("https://api.bitchute.com/api/beta/channel/videos",
+                                 {"channel_id": BITCHUTE_CHANNEL_ID, "offset": page * 50, "limit": 50})
+        if not isinstance(data, dict) or "videos" not in data:
+            if page == 0:
+                return [], f"BitChute API returned HTTP {status}"
+            break
+        videos += data["videos"]
+        if len(data["videos"]) < 50:
+            break
     out = []
-    for v in data["videos"]:
+    for v in videos:
         vid = v.get("video_id", "")
         # BitChute's automatic YouTube import reuses the YouTube video ID.
         ids = {vid} if re.fullmatch(r"[0-9A-Za-z_-]{11}", vid) else set()
@@ -403,40 +431,58 @@ def bitchute_uploads() -> tuple[list[Upload], str | None]:
     return out, None
 
 
-def rumble_uploads() -> tuple[list[Upload], str | None]:
-    status, body = http(RUMBLE_CHANNEL_URL)
-    if status != 200:
-        return [], f"Rumble channel page returned HTTP {status}"
-    page = body.decode("utf-8", "replace")
+def rumble_uploads(pages: int = 1) -> tuple[list[Upload], str | None]:
     out, seen = [], set()
-    for m in re.finditer(r'href="(/(v[0-9a-z]{4,})-([^"]+?)\.html)', page):
-        key = m.group(2)
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(Upload("Rumble", "https://rumble.com" + m.group(1), key,
-                          m.group(3).replace("-", " "), None))
+    for n in range(1, pages + 1):
+        status, body = http(RUMBLE_CHANNEL_URL + (f"?page={n}" if n > 1 else ""))
+        if status != 200:
+            if n == 1:
+                return [], f"Rumble channel page returned HTTP {status}"
+            break   # past the last page, or blocked: keep what we have
+        page = body.decode("utf-8", "replace")
+        before = len(out)
+        for m in re.finditer(r'href="(/(v[0-9a-z]{4,})-([^"]+?)\.html)', page):
+            key = m.group(2)
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append(Upload("Rumble", "https://rumble.com" + m.group(1), key,
+                              m.group(3).replace("-", " "), None))
+        if len(out) == before:
+            break   # a page with nothing new: the end of the list
+        if n < pages:
+            time.sleep(1)
     if not out:
         return [], "Rumble channel page had no videos (layout may have changed)"
     return out, None
 
 
-def x_posts() -> tuple[list[Upload], str | None]:
-    """Recent posts from the X account. Expected to fail often."""
+def x_posts(pages: int = 1) -> tuple[list[Upload], str | None]:
+    """Recent posts from the X account. Expected to fail often. Without an
+    API token only the newest posts can be read, so older X mirrors are
+    only found with X_BEARER_TOKEN set."""
     errors = []
     token = os.environ.get("X_BEARER_TOKEN", "").strip()
     if token:
         auth = {"Authorization": f"Bearer {token}"}
         status, user = http_json(f"https://api.x.com/2/users/by/username/{X_HANDLE}", headers=auth)
         uid = (user or {}).get("data", {}).get("id") if isinstance(user, dict) else None
-        if uid:
+        posts, next_token = [], None
+        for _ in range(pages if uid else 0):
             status, data = http_json(
                 f"https://api.x.com/2/users/{uid}/tweets?max_results=100"
-                "&tweet.fields=created_at,entities&exclude=retweets,replies", headers=auth)
-            if isinstance(data, dict) and "data" in data:
-                return [_x_upload(t.get("id"), t.get("text"), t.get("created_at"),
-                                  [u.get("expanded_url", "") for u in (t.get("entities") or {}).get("urls", [])])
-                        for t in data["data"]], None
+                "&tweet.fields=created_at,entities&exclude=retweets,replies"
+                + (f"&pagination_token={next_token}" if next_token else ""), headers=auth)
+            if not (isinstance(data, dict) and "data" in data):
+                break
+            posts += [_x_upload(t.get("id"), t.get("text"), t.get("created_at"),
+                                [u.get("expanded_url", "") for u in (t.get("entities") or {}).get("urls", [])])
+                      for t in data["data"]]
+            next_token = (data.get("meta") or {}).get("next_token")
+            if not next_token:
+                break
+        if posts:
+            return posts, None
         errors.append(f"X API returned HTTP {status}")
     status, body = http(f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{X_HANDLE}")
     if status == 200:
@@ -475,7 +521,7 @@ def _x_upload(tid, text, created, urls) -> Upload:
 
 ROW_RE = re.compile(r"^\|\s*(\d+a?)\s*\|")
 CELL_SPLIT = re.compile(r"(?<!\\)\|")
-TOKEN_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
+TOKEN_RE = re.compile(r"\[([^\]]+)\]\(((?:[^()\s]|\([^()\s]*\))+)\)")
 
 
 class Row:
@@ -548,8 +594,24 @@ def add_links(row: Row, new: list[Link]) -> list[Link]:
 # Matching
 # --------------------------------------------------------------------------
 
+def exact_norm(text: str) -> str:
+    """norm() drops hashtags, which would make "The Rant #3" equal "The Rant".
+    Keep "#3" as the number 3 here."""
+    return norm(re.sub(r"#(\d+)\b", r" \1 ", (text or "").replace("&", " and ")))
+
+
+def exact_title(up: Upload, title: str) -> bool:
+    """Strict match for older videos: the same title once normalised. For an
+    X post only its first line (the title) counts."""
+    t = exact_norm(title)
+    other = up.title.split("\n", 1)[0] if up.platform == "X" else up.title
+    return len(t) >= 3 and exact_norm(other) == t
+
+
 def find_mirrors(yt_id: str, title: str, published: dt.datetime | None, yt_description: str,
-                 sources: dict[str, list[Upload]]) -> list[Link]:
+                 sources: dict[str, list[Upload]], strict: bool = False) -> list[Link]:
+    """Mirrors of one video. strict=True (older videos) accepts an upload only
+    when it names this YouTube video or has exactly the same title."""
     found: list[Link] = []
     # 1. Links written in the YouTube description itself.
     found += extract_links(yt_description)
@@ -561,7 +623,10 @@ def find_mirrors(yt_id: str, title: str, published: dt.datetime | None, yt_descr
                     continue
                 if published and up.published and up.published < published - dt.timedelta(days=1):
                     continue
-                if platform == "X":
+                if strict:
+                    if not exact_title(up, title):
+                        continue
+                elif platform == "X":
                     if not (norm(title) and norm(title) in norm(up.title)) and not titles_match(up.title, title):
                         continue
                 elif not titles_match(up.title, title):
@@ -757,24 +822,62 @@ def main() -> int:
             meta["published"], meta["approx_date"] = exact["published"].isoformat(), False
 
     # ---- Mirrors ------------------------------------------------------
+    # Every public row with a YouTube link is checked. Recent rows (and rows
+    # still tracked for notifications) are matched by similar title; older
+    # rows only by YouTube ID/link or an exact title. A deep scan reads every
+    # page of each channel, so mirrors uploaded long ago are found too.
     cutoff = (NOW.astimezone(tz) - dt.timedelta(days=RECHECK_DAYS)).date().isoformat()
+    last_deep = parse_time(state.get("last_deep_scan"))
+    deep = os.environ.get("DEEP_SCAN") == "1" or last_deep is None or \
+        (NOW - last_deep).total_seconds() >= DEEP_SCAN_HOURS * 3600
+    pages = PAGES_DEEP if deep else PAGES_NORMAL
+
+    def is_recent(r: Row) -> bool:
+        return r.date >= cutoff or r.yt_id in state["videos"]
+
+    def has_all(r: Row) -> bool:
+        have = {platform_of(url) for _, url in r.tokens()}
+        return all(p in have for p in PLATFORMS)
+
     to_check = [r for r in all_rows if r.yt_id and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.date)
-                and (r.date >= cutoff or r.yt_id in state["videos"])]
+                and (is_recent(r) or not has_all(r))]
     errors = {}
     if to_check:
-        log("Reading mirrors…")
+        log(f"Reading mirrors ({'deep scan, all pages' if deep else f'newest {pages} pages'})…")
         sources = {}
         for name, fn in (("Odysee", odysee_uploads), ("BitChute", bitchute_uploads),
                          ("Rumble", rumble_uploads), ("X", x_posts)):
-            sources[name], err = fn()
+            sources[name], err = fn(pages)
             if err:
                 errors[name] = err
             log(f"  {name}: {len(sources[name])} items" + (f" (failed: {err})" if err else ""))
+        if deep and not errors:
+            state["last_deep_scan"] = NOW.isoformat()
+
+        # Uploads already linked anywhere in INDEX.md are never linked again elsewhere.
+        owner: dict[tuple[str, str], Row] = {}
+        for r in all_rows:
+            for l in r.links():
+                owner.setdefault((l.platform, l.key), r)
+
+        candidates: list[tuple[Row, list[Link]]] = []
+        claims: dict[tuple[str, str], int] = {}
         for r in to_check:
             info = feed_by_id.get(r.yt_id, {})
-            published = info.get("published") or parse_time(state["videos"].get(r.yt_id, {}).get("published"))
+            published = info.get("published") or parse_time(state["videos"].get(r.yt_id, {}).get("published")) \
+                or dt.datetime.combine(dt.date.fromisoformat(r.date), dt.time(), tz)
             links = find_mirrors(r.yt_id, info.get("title") or r.title.replace("\\|", "|"),
-                                 published, info.get("description", ""), sources)
+                                 published, info.get("description", ""), sources, strict=not is_recent(r))
+            links = [l for l in links if owner.get((l.platform, l.key), r) is r]
+            for l in links:
+                claims[(l.platform, l.key)] = claims.get((l.platform, l.key), 0) + 1
+            candidates.append((r, links))
+
+        for r, links in candidates:
+            for l in links:
+                if claims[(l.platform, l.key)] > 1 and l.key not in r.mirrors:
+                    log(f"  #{r.number}: skipped {l} (it matches more than one video)")
+            links = [l for l in links if claims[(l.platform, l.key)] == 1]
             for l in add_links(r, links):
                 log(f"  #{r.number}: added {l}")
                 SUMMARY.append(f"#{r.number} {LABELS[l.platform]}{' (Uncensored)' if l.uncensored else ''}")
@@ -786,7 +889,7 @@ def main() -> int:
         if row is None or published is None:
             state["videos"].pop(vid, None)
             continue
-        have = {l.platform for l in row.links()}
+        have = {platform_of(url) for _, url in row.tokens()}
         missing = [p for p in PLATFORMS if p not in have]
         age_h = (NOW - published).total_seconds() / 3600
         issue = meta.get("issue")
