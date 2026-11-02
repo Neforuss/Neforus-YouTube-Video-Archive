@@ -1,12 +1,17 @@
 name: Archive sync
 
 # Adds new long-form YouTube uploads to INDEX.md and README.md and fills in
-# their Rumble, Odysee, BitChute and X mirror links. See scripts/archive_sync.py.
+# Rumble, Odysee, BitChute and X mirror links for every video in INDEX.md. See scripts/archive_sync.py.
 
 on:
   schedule:
     - cron: "17 * * * *"     # every hour (GitHub may delay or skip some)
   workflow_dispatch:          # "Run workflow" button on the Actions tab
+    inputs:
+      deep_scan:
+        description: "Read every page of every channel now (normally once a day)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -35,6 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          DEEP_SCAN: ${{ inputs.deep_scan && '1' || '' }}
         run: python scripts/archive_sync.py
 
       - name: Keep the schedule alive
