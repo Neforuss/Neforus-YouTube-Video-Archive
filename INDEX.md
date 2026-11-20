@@ -2,7 +2,8 @@
 
 | # | Title | Original Upload Date (YYYY-MM-DD) | Thumbnails | YouTube | Mirrors |
 |-----|----------------------------------------------------|----------------------|--------------------------------|-----------------------------|--------------------------------------------------|
-| 670 | *Next upload (in production)* | TBA |  |  |  |
+| 671 | *Next upload (in production)* | TBA |  |  |  |
+| 670 | Neforus - Paramonos Constitution (Instrumental) (Song) | 2026-11-20 | ![thumb](/thumbnails/670.png) | [Watch](https://youtu.be/DPGeJfa78Ts) |  |
 | 669 | Ultimate Starting Line | 2026-11-01 | ![thumb](/thumbnails/669.png) | [Watch](https://youtu.be/j9Iot1d6fVk) | [Rumble](https://rumble.com/v7hq4ue-ultimate-starting-line.html) [BitChute](https://www.bitchute.com/video/j9Iot1d6fVk/) [Twitter/X](https://x.com/Neforus/status/2117032493492883885) |
 | 668 | I beat the 2015 Demons List before Tride & SONIC WAVE | 2026-10-22 | ![thumb](/thumbnails/668.png) | [Watch](https://youtu.be/8ihCofGLQ8o) | [Rumble](https://rumble.com/v7h8zgw-i-beat-the-2015-demons-list-before-tride-and-sonic-wave.html) [BitChute](https://www.bitchute.com/video/8ihCofGLQ8o/) [Twitter/X](https://x.com/Neforus/status/2113422597803438167) [Odysee](https://odysee.com/@Neforus:d/-668--I-beat-the-2015-Demons-List-before-Tride-plus-SONIC-WAVE-1080p60-Odysee:1) |
 | 667 | Neforus dot com (my website) | 2026-10-13 | ![thumb](/thumbnails/667.png) | [Watch](https://youtu.be/TcC0YaynfLo) | [Rumble](https://rumble.com/v7gtj1i-neforus-dot-com-my-website.html) [BitChute](https://www.bitchute.com/video/TcC0YaynfLo/) [Twitter/X](https://x.com/Neforus/status/2110224944412144116) [Odysee](https://odysee.com/@Neforus:d/-667--Neforus-dot-com-(my-website)-1080p60:d) |
