@@ -12,9 +12,10 @@
     },
     "j9Iot1d6fVk": {
       "approx_date": false,
-      "issue": 5,
+      "issue": null,
       "number": "669",
-      "published": "2026-11-01T22:54:00+00:00"
+      "published": "2026-11-01T22:54:00+00:00",
+      "resolved": true
     }
   }
 }
